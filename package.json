@@ -1,0 +1,12 @@
+{
+  "name": "noor-e-jheel-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Noor-e-Jheel Tour & Travel - Premium Himalayan Lead-Generation Platform",
+  "scripts": {
+    "dev:server": "cd server && node server.js",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd server && node server.js"
+  }
+}
