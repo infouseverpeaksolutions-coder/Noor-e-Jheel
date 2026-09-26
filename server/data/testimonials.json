@@ -1,0 +1,52 @@
+[
+  {
+    "id": "test-1",
+    "name": "Dr. Rohit & Ananya Sharma",
+    "location": "Mumbai, Maharashtra",
+    "package": "Romantic Kashmir Honeymoon with Houseboat",
+    "rating": 5,
+    "date": "May 2025",
+    "comment": "Noor-e-Jheel made our honeymoon nothing short of a Bollywood dream! The royal houseboat on Dal Lake, the private candlelight Wazwan dinner, and our driver Bilal bhai were outstanding. Whenever we had a query, the team responded on WhatsApp within 2 minutes. Truly 5-star local hospitality.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
+  },
+  {
+    "id": "test-2",
+    "name": "Haji Mohammad Irfan & Family",
+    "location": "Lucknow, Uttar Pradesh",
+    "package": "Holy Umrah Package (20 Days)",
+    "rating": 5,
+    "date": "February 2025",
+    "comment": "Alhamdulillah, our Umrah was conducted with highest dignity and ease. Noor-e-Jheel's hotels in Makkah and Madinah were barely 5 minutes walk from the Haram boundaries. The Kashmiri guides were so respectful to my elderly parents. May Allah bless the Noor-e-Jheel team.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80"
+  },
+  {
+    "id": "test-3",
+    "name": "Rajesh & Meenakshi Patel",
+    "location": "Ahmedabad, Gujarat",
+    "package": "Kashmir + Vaishno Devi Darshan",
+    "rating": 5,
+    "date": "April 2025",
+    "comment": "Seamless coordination from Jammu railway station all the way to Srinagar airport! We had pure Jain vegetarian meals arranged at every hotel. The helicopter booking in Katra was handled effortlessly. Best travel agency for combined pilgrimage & holiday.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80"
+  },
+  {
+    "id": "test-4",
+    "name": "Vikramaditya Rao & Friends",
+    "location": "Bengaluru, Karnataka",
+    "package": "Ladakh Grand Expedition (10D/9N)",
+    "rating": 5,
+    "date": "July 2025",
+    "comment": "Crossing Zoji La and staying at Pangong lake glamping camps was the trip of a lifetime! The driver was an expert on mountain roads, and the oxygen cylinder in the cab gave us complete peace of mind. Transparent pricing and zero hidden charges.",
+    "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=200&q=80"
+  },
+  {
+    "id": "test-5",
+    "name": "Sunita & Manoj Agarwal",
+    "location": "Delhi NCR",
+    "package": "Kashmir Offbeat — Gurez & Bungus",
+    "rating": 5,
+    "date": "August 2025",
+    "comment": "If you want to see the real Kashmir untouched by commercial tourism, go with Noor-e-Jheel! Gurez Valley and Doodhpathri felt like heaven on earth. Noor-e-Jheel handled army checkposts and permits with zero hassle for us. Simply unmatched.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80"
+  }
+]

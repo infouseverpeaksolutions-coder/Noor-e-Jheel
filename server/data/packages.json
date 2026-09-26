@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "pkg-kashmir-offbeat-7d6n",
+    "title": "Kashmir Offbeat — Raw & Untouched Valleys",
+    "slug": "kashmir-offbeat-7d6n",
+    "category": "kashmir",
+    "duration": "7 Days / 6 Nights",
+    "days": 7,
+    "nights": 6,
+    "starting_price": 32000,
+    "original_price": 38500,
+    "short_description": "Venture beyond tourist hotspots into untouched paradise — Gurez Valley, Bungus meadows, and serene Doodhpathri.",
+    "description": "Escape the crowded tourist paths with Noor-e-Jheel's exclusive Offbeat Kashmir expedition. Journey across Razdan Pass into the mystical border valley of Gurez, walk through the pristine pine meadows of Doodhpathri, and explore the hidden wilderness of Bungus Valley with local Kashmiri guides who know every secret trail.",
+    "hero_image": "/images/packages/kashmir-offbeat-package.jpg",
+    "highlights": [
+      "Cross the dramatic 11,672 ft Razdan Pass with views of Harmukh peak",
+      "Stay alongside the turquoise Kishanganga River in Gurez Valley",
+      "Explore the untouched alpine pastures of Bungus Valley",
+      "Picnic in the lush green valleys of Doodhpathri (Valley of Milk)",
+      "Traditional Kashmiri Wazwan feast and Dal Lake shikara sunset"
+    ],
+    "destinations": [
+      "Srinagar",
+      "Gurez Valley",
+      "Bungus Valley",
+      "Doodhpathri"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar & Sunset Shikara at Dal Lake",
+        "description": "Welcome to Srinagar! Our private chauffeur receives you at Srinagar Airport. Check in to a premium heritage houseboat on Dal Lake. Enjoy a relaxing 1-hour sunset Shikara ride across floating gardens and Char Chinar.",
+        "meals": "Dinner Included",
+        "stay": "Super Deluxe Houseboat, Dal Lake"
+      },
+      {
+        "day_number": 2,
+        "title": "Scenic Drive to Gurez Valley via Razdan Pass",
+        "description": "Depart early morning for Gurez Valley. Drive through Wular Lake shoreline, ascend the breathtaking Razdan Pass (11,672 ft), and descend into Dawar, the heart of Gurez, framed by the majestic Habba Khatoon peak.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Riverside Alpine Resort, Dawar Gurez"
+      },
+      {
+        "day_number": 3,
+        "title": "Habba Khatoon Spring & Border Villages Exploration",
+        "description": "Visit Habba Khatoon spring with crystal clear mountain water, explore traditional log-wood villages of Tulail and Chakwali (the last Indian village near LOC). Enjoy campfire under starry Himalayan skies.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Riverside Alpine Resort, Dawar Gurez"
+      },
+      {
+        "day_number": 4,
+        "title": "Gurez to Bungus Valley Wilderness Expedition",
+        "description": "Scenic drive down to Kupwara region to discover the hidden Bungus Valley — vast rolling meadows ringed by coniferous forest and gushing streams, completely pristine and tourist-free.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Nature Retreat / Kupwara Eco Stay"
+      },
+      {
+        "day_number": 5,
+        "title": "Bungus to Doodhpathri — Valley of Milk",
+        "description": "Drive towards Doodhpathri, named for its foaming milky mountain river Shaliganga. Walk on lush carpet grass surrounded by dense deodar trees and snow-capped peaks.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Boutique Hotel, Srinagar"
+      },
+      {
+        "day_number": 6,
+        "title": "Old Srinagar Heritage Walk & Mughal Gardens",
+        "description": "Explore the historic Jamia Masjid, Shah-e-Hamdan wooden shrine, and Nishat Bagh & Shalimar Bagh gardens. Savor authentic Kashmiri Kehwa and dry fruit shopping in Lal Chowk.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Boutique Hotel, Srinagar"
+      },
+      {
+        "day_number": 7,
+        "title": "Departure from Srinagar Airport",
+        "description": "After a hearty Kashmiri breakfast, our chauffeur drops you at Srinagar Airport with lifelong memories of untouched paradise.",
+        "meals": "Breakfast Included",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "6 Nights accommodation (Houseboat + Gurez Riverside + Boutique Hotels)",
+      "Daily Buffet Breakfast and Gourmet Dinner",
+      "Private sanitized cab (Innova/Crysta) for the entire duration",
+      "All interstate tolls, parking, driver night charges, fuel",
+      "1-Hour Dal Lake Shikara ride with photoshoot stop",
+      "Inner-line permits and military check-post clearance support for Gurez",
+      "24/7 Dedicated Local Concierge assistance in Kashmir"
+    ],
+    "exclusions": [
+      "Airfare / Train tickets to and from Srinagar",
+      "Pony rides or local union cabs in restricted eco-zones",
+      "Personal tips, shopping, and laundry expenses",
+      "Travel insurance"
+    ],
+    "gallery": [
+      "/images/packages/kashmir-offbeat-package.jpg",
+      "/images/destinations/gurez.jpg",
+      "/images/destinations/doodhpathri.jpg",
+      "/images/destinations/srinagar.jpg"
+    ],
+    "faqs": [
+      {
+        "question": "Is Gurez Valley safe for families and couples?",
+        "answer": "Yes, absolutely. Gurez is very peaceful and hospitable. Noor-e-Jheel manages all required army/civilian permissions and provides verified local drivers."
+      },
+      {
+        "question": "What is the best time to visit Gurez and Bungus?",
+        "answer": "May through October is the ideal season when passes are clear and meadows are carpeted in green and wildflowers."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.95,
+    "reviews_count": 84
+  },
+  {
+    "id": "pkg-kashmir-family-tour-6d5n",
+    "title": "Kashmir Family Tour — Classic Paradise",
+    "slug": "kashmir-family-tour-6d5n",
+    "category": "family",
+    "duration": "6 Days / 5 Nights",
+    "days": 6,
+    "nights": 5,
+    "starting_price": 16900,
+    "original_price": 21500,
+    "short_description": "The perfect relaxing holiday for families with children and elders — Dal Lake, Gulmarg Gondola, and scenic Pahalgam.",
+    "description": "Designed specifically for families seeking a comfortable, slow-paced holiday with premium hospitality. Enjoy iconic Shikara rides, majestic snow peaks in Gulmarg, pine forests of Betaab Valley in Pahalgam, and unforgettable Kashmiri warmth.",
+    "hero_image": "/images/packages/kashmir-family-tour.jpg",
+    "highlights": [
+      "Comfortable stays in vetted family-friendly 3/4 Star hotels & Dal Lake houseboat",
+      "Thrilling Gulmarg Gondola cable car ride to Kongdoori & Apharwat Peak",
+      "Betaab Valley, Aru Valley & Chandanwari in Pahalgam",
+      "Dal Lake Shikara boat ride with floating flower markets",
+      "Safe, private vehicle with polite, experienced local Kashmiri driver"
+    ],
+    "destinations": [
+      "Srinagar",
+      "Dal Lake",
+      "Gulmarg",
+      "Pahalgam"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar & Dal Lake Houseboat Check-in",
+        "description": "Pick up from airport, check-in to handpicked luxury houseboat. Evening Shikara ride to Char Chinar and Nehru Park.",
+        "meals": "Dinner",
+        "stay": "Luxury Houseboat, Dal Lake"
+      },
+      {
+        "day_number": 2,
+        "title": "Srinagar to Gulmarg — Meadow of Flowers",
+        "description": "Drive through apple orchards to Gulmarg. Take the world's 2nd highest Gondola cable car to snow slopes. Return to Srinagar hotel.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Premium Hotel, Srinagar"
+      },
+      {
+        "day_number": 3,
+        "title": "Srinagar to Pahalgam — Valley of Shepherds",
+        "description": "Scenic drive via Pampore saffron fields and Awantipora ruins. Reach Pahalgam along the roaring Lidder River.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Riverside Hotel, Pahalgam"
+      },
+      {
+        "day_number": 4,
+        "title": "Exploring Betaab Valley, Aru Valley & Chandanwari",
+        "description": "Full day dedicated to breathtaking alpine meadows of Betaab Valley and Aru Valley. Evening riverside walk.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Riverside Hotel, Pahalgam"
+      },
+      {
+        "day_number": 5,
+        "title": "Pahalgam to Srinagar — Mughal Gardens & Local Bazaars",
+        "description": "Return to Srinagar. Visit Mughal Gardens (Nishat, Shalimar) and shop for Pashmina shawls, saffron, and walnut crafts.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Premium Hotel, Srinagar"
+      },
+      {
+        "day_number": 6,
+        "title": "Airport Farewell with Sweet Memories",
+        "description": "Breakfast at hotel and seamless transfer to Srinagar Airport for your onward journey.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "5 Nights accommodation in family-friendly deluxe rooms",
+      "Daily breakfast and dinner (Vegetarian, Non-Veg, & Jain options)",
+      "Private AC/Heated cab with dedicated courteous chauffeur",
+      "Shikara ride on Dal Lake (1 Hour)",
+      "Assistance with Gulmarg Gondola slot bookings",
+      "All parking, toll taxes, and driver allowances"
+    ],
+    "exclusions": [
+      "Flight tickets",
+      "Gondola tickets (can be arranged upon request)",
+      "Pahalgam internal local union taxi for Aru/Betaab"
+    ],
+    "gallery": [
+      "/images/packages/kashmir-family-tour.jpg",
+      "/images/destinations/srinagar.jpg",
+      "/images/destinations/gulmarg.webp",
+      "/images/destinations/pahalgam.jpg"
+    ],
+    "faqs": [
+      {
+        "question": "Can elderly family members easily manage this tour?",
+        "answer": "Yes! This itinerary has comfortable driving times, wheelchair-friendly vehicle options, and handpicked hotels with elevators and heating."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.9,
+    "reviews_count": 142
+  },
+  {
+    "id": "pkg-kashmir-tour-package-6d5n",
+    "title": "Kashmir Golden Circuit — Srinagar, Pahalgam & Sonamarg",
+    "slug": "kashmir-tour-package-6d5n",
+    "category": "kashmir",
+    "duration": "6 Days / 5 Nights",
+    "days": 6,
+    "nights": 5,
+    "starting_price": 18900,
+    "original_price": 23500,
+    "short_description": "The quintessential Kashmir journey covering Dal Lake, snow glaciers of Sonamarg, and green pines of Pahalgam.",
+    "description": "Experience the classic crown jewels of Kashmir: Dal Lake's tranquil waters, Sonamarg's sparkling Thajiwas Glacier, Pahalgam's Lidder Valley, and the serene Mughal gardens.",
+    "hero_image": "/images/packages/kashmir-tour-package.jpg",
+    "highlights": [
+      "Sonamarg Thajiwas Glacier excursion along Sindh River",
+      "Pahalgam Lidder Valley and Betaab meadow",
+      "Overnight stay on Dal Lake in hand-carved cedar houseboat",
+      "Mughal Gardens of Srinagar (Shalimar & Nishat)",
+      "Authentic Wazwan dinner tasting session"
+    ],
+    "destinations": [
+      "Srinagar",
+      "Pahalgam",
+      "Sonamarg",
+      "Dal Lake"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar & Dal Lake Shikara",
+        "description": "Airport pick up, check-in to houseboat, evening Shikara ride.",
+        "meals": "Dinner",
+        "stay": "Houseboat on Dal Lake"
+      },
+      {
+        "day_number": 2,
+        "title": "Day Excursion to Sonamarg — Meadow of Gold",
+        "description": "Full day trip to Sonamarg. Witness towering glaciers and fast flowing mountain rivers. Return to Srinagar.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 3,
+        "title": "Srinagar to Pahalgam via Saffron Fields",
+        "description": "Drive past Pampore saffron farms and pine forests to Pahalgam. Evening stroll by the Lidder River.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Pahalgam"
+      },
+      {
+        "day_number": 4,
+        "title": "Pahalgam Sightseeing & Nature Walk",
+        "description": "Visit Betaab Valley, Chandanwari, and Aru Valley. Enjoy photography and trout fishing spots.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Pahalgam"
+      },
+      {
+        "day_number": 5,
+        "title": "Pahalgam to Srinagar Sightseeing",
+        "description": "Drive back to Srinagar. Explore Shankaracharya Temple, Nishat Bagh, and local handicrafts markets.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 6,
+        "title": "Srinagar Departure",
+        "description": "Breakfast and transfer to Srinagar Airport for your return flight.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "5 Nights accommodation (Houseboat + Hotels)",
+      "Daily breakfast & dinner",
+      "Private dedicated transport for all 6 days",
+      "1-Hour Shikara ride",
+      "Tolls, parking, driver allowances"
+    ],
+    "exclusions": [
+      "Flight tickets",
+      "Pony rides & local union cab at Sonamarg/Pahalgam"
+    ],
+    "gallery": [
+      "/images/packages/kashmir-tour-package.jpg",
+      "/images/destinations/srinagar.jpg",
+      "/images/destinations/pahalgam.jpg",
+      "/images/destinations/sonamarg.jpg"
+    ],
+    "faqs": [
+      {
+        "question": "Can this itinerary be customized for additional days?",
+        "answer": "Yes! All Noor-e-Jheel packages are 100% customizable. Tap 'Enquire on WhatsApp' to modify nights or add Gulmarg."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.88,
+    "reviews_count": 98
+  },
+  {
+    "id": "pkg-kashmir-vaishnodevi-8d7n",
+    "title": "Kashmir + Vaishno Devi Darshan — Divine Himalayas",
+    "slug": "kashmir-vaishnodevi-8d7n",
+    "category": "vaishno-devi",
+    "duration": "8 Days / 7 Nights",
+    "days": 8,
+    "nights": 7,
+    "starting_price": 24900,
+    "original_price": 31000,
+    "short_description": "Combine the spiritual blessings of Mata Vaishno Devi in Katra with the heavenly beauty of the Kashmir Valley.",
+    "description": "A deeply soul-satisfying journey that begins with sacred darshan at the holy shrine of Shri Mata Vaishno Devi in Katra, followed by rejuvenating mountain stays across Srinagar, Gulmarg, and Pahalgam.",
+    "hero_image": "/images/packages/kashmir-vaishno-devi.jpg",
+    "highlights": [
+      "Seamless VIP darshan & helicopter/yatra slip guidance in Katra",
+      "Comfortable hotel in Katra with vegetarian/satvik food options",
+      "Scenic crossing through Chenani-Nashri & Banihal tunnels into Kashmir",
+      "Dal Lake Shikara ride and heritage houseboat stay",
+      "Gulmarg snow excursion and Pahalgam Lidder river valleys"
+    ],
+    "destinations": [
+      "Jammu",
+      "Katra",
+      "Vaishno Devi",
+      "Srinagar",
+      "Gulmarg",
+      "Pahalgam"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Jammu & Transfer to Katra",
+        "description": "Receive at Jammu Railway Station/Airport. Private cab drive to Katra hotel. Yatra registration assistance and rest.",
+        "meals": "Dinner",
+        "stay": "Hotel in Katra"
+      },
+      {
+        "day_number": 2,
+        "title": "Mata Vaishno Devi Holy Darshan",
+        "description": "Trek or helicopter to Mata Vaishno Devi Bhawan. Perform holy darshan and Ardhkuwari. Return to Katra for overnight stay.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Katra"
+      },
+      {
+        "day_number": 3,
+        "title": "Katra to Srinagar via Banihal Qazigund Tunnel",
+        "description": "Scenic highway drive to Srinagar valley. Check-in to hotel/houseboat. Relaxing evening.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 4,
+        "title": "Srinagar to Gulmarg Snow & Gondola Day",
+        "description": "Day trip to Gulmarg. Cable car ride to snow levels. Return to Srinagar.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 5,
+        "title": "Srinagar to Pahalgam — Lidder River",
+        "description": "Drive to Pahalgam. Check in and explore Betab Valley and local pine trails.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Pahalgam"
+      },
+      {
+        "day_number": 6,
+        "title": "Pahalgam to Srinagar & Dal Lake Houseboat",
+        "description": "Return to Srinagar. Check in to luxury houseboat on Dal Lake. Enjoy sunset Shikara ride.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Luxury Houseboat, Dal Lake"
+      },
+      {
+        "day_number": 7,
+        "title": "Srinagar Mughal Gardens & Local Sightseeing",
+        "description": "Visit Chashme Shahi, Nishat, Shalimar, and Hazratbal Shrine. Evening shopping.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Houseboat/Hotel in Srinagar"
+      },
+      {
+        "day_number": 8,
+        "title": "Departure from Srinagar Airport",
+        "description": "Transfer to Srinagar Airport for return flight.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "7 Nights accommodation (Katra + Srinagar + Pahalgam + Houseboat)",
+      "Daily breakfast & pure veg/non-veg dinner",
+      "Private cab throughout the tour (Jammu to Srinagar drop)",
+      "Shikara ride on Dal Lake",
+      "Yatra assistance & Katra pickup"
+    ],
+    "exclusions": [
+      "Helicopter / Battery car tickets for Vaishno Devi",
+      "Gulmarg Gondola tickets",
+      "Train/Airfare"
+    ],
+    "gallery": [
+      "/images/packages/kashmir-vaishno-devi.jpg",
+      "/images/spiritual/vaishno-devi.webp",
+      "/images/destinations/srinagar.jpg"
+    ],
+    "faqs": [
+      {
+        "question": "Can we arrange Vaishno Devi helicopter tickets through Noor-e-Jheel?",
+        "answer": "Yes, our team guides and assists you with official helicopter booking slots and VIP battery car access."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.92,
+    "reviews_count": 115
+  },
+  {
+    "id": "pkg-ladakh-tour-package-10d9n",
+    "title": "Ladakh Grand Expedition — Land of High Passes",
+    "slug": "ladakh-tour-package-10d9n",
+    "category": "ladakh",
+    "duration": "10 Days / 9 Nights",
+    "days": 10,
+    "nights": 9,
+    "starting_price": 33000,
+    "original_price": 42000,
+    "short_description": "The definitive trans-Himalayan overland adventure — Srinagar, Kargil, Leh, Nubra Valley & Pangong Tso.",
+    "description": "Cross the formidable Zoji La pass from green Kashmir into the stark, moon-like landscapes of Ladakh. Drive over Khardung La (one of the world's highest motorable roads), sleep in luxury desert camps in Nubra, and witness the changing azure colors of Pangong Lake.",
+    "hero_image": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?auto=format&fit=crop&w=1200&q=80",
+    "highlights": [
+      "Scenic overland drive through Zoji La & Kargil War Memorial in Drass",
+      "World's highest motorable passes: Khardung La (17,982 ft) & Chang La",
+      "Double-humped Bactrian camel safari in Hunder Sand Dunes, Nubra",
+      "Overnight luxury glamping camp on the banks of Pangong Tso Lake",
+      "Ancient Buddhist monasteries: Thiksey, Diskit & Shey Palace"
+    ],
+    "destinations": [
+      "Srinagar",
+      "Kargil",
+      "Leh",
+      "Nubra Valley",
+      "Pangong Lake",
+      "Khardung La"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar & Shikara Ride",
+        "description": "Welcome to Srinagar. Acclimate and enjoy peaceful Dal Lake sunset on a houseboat.",
+        "meals": "Dinner",
+        "stay": "Houseboat in Srinagar"
+      },
+      {
+        "day_number": 2,
+        "title": "Srinagar to Kargil via Sonamarg & Zoji La Pass",
+        "description": "Drive over Zoji La pass. Visit Drass (2nd coldest inhabited place) and Kargil War Memorial.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Kargil"
+      },
+      {
+        "day_number": 3,
+        "title": "Kargil to Leh via Lamayuru Moonland & Magnetic Hill",
+        "description": "Spectacular drive passing Lamayuru monastery, Indus-Zanskar sangam, and Magnetic Hill.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Leh"
+      },
+      {
+        "day_number": 4,
+        "title": "Leh Acclimatization & Local Monasteries",
+        "description": "Rest to acclimatize to high altitude. Afternoon visit to Leh Palace, Shanti Stupa, and Leh Market.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Leh"
+      },
+      {
+        "day_number": 5,
+        "title": "Leh to Nubra Valley via Khardung La (17,982 ft)",
+        "description": "Drive over Khardung La pass. Arrive in Nubra, visit giant Diskit Buddha and Hunder sand dunes camel ride.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Luxury Swiss Camp, Nubra"
+      },
+      {
+        "day_number": 6,
+        "title": "Nubra Valley to Turtuk (Balti Village on Border)",
+        "description": "Day trip to Turtuk, a picturesque village of the Balti people with apricot orchards and unique culture.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Luxury Swiss Camp, Nubra"
+      },
+      {
+        "day_number": 7,
+        "title": "Nubra to Pangong Tso via Shyok River Route",
+        "description": "Direct off-road route along Shyok river to the iconic Pangong Lake. Witness unforgettable sunset reflections.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Lakefront Swiss Cottage, Pangong"
+      },
+      {
+        "day_number": 8,
+        "title": "Pangong Lake Sunrise to Leh via Chang La Pass",
+        "description": "Early morning lake photography. Drive back to Leh crossing Chang La (17,688 ft). Visit Thiksey Monastery.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Leh"
+      },
+      {
+        "day_number": 9,
+        "title": "Leh Leisure & Souvenir Shopping",
+        "description": "Explore local Ladakhi cafes, Tibetan handicraft markets, and enjoy a farewell dinner.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Leh"
+      },
+      {
+        "day_number": 10,
+        "title": "Leh Airport Departure",
+        "description": "Drop off at Leh Kushok Bakula Rimpochee Airport for onward flight.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "9 Nights stay (Hotels + Luxury Camps at Nubra & Pangong)",
+      "Daily breakfast & dinner throughout",
+      "Comfortable 4x4 / Tempo / Innova cab with oxygen cylinder on board",
+      "Inner Line Permits (ILP) and Wildlife fees included",
+      "Experienced local Himalayan driver",
+      "All toll, parking, state tax"
+    ],
+    "exclusions": [
+      "Flight tickets",
+      "Camel ride fees & personal expenses"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "faqs": [
+      {
+        "question": "How do you handle acute mountain sickness (AMS)?",
+        "answer": "Our itinerary builds gradual acclimatization. All our vehicles carry medical oxygen cylinders and drivers are trained in high-altitude safety."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.97,
+    "reviews_count": 76
+  },
+  {
+    "id": "pkg-amarnath-yatra-4d3n",
+    "title": "Amarnath Yatra — Holy Cave Pilgrimage",
+    "slug": "amarnath-yatra-4d3n",
+    "category": "yatra",
+    "duration": "4 Days / 3 Nights",
+    "days": 4,
+    "nights": 3,
+    "starting_price": 29900,
+    "original_price": 36000,
+    "short_description": "Sacred pilgrimage to the Holy Ice Lingam at Shri Amarnath Cave with helicopter and overland options.",
+    "description": "Perform your once-in-a-lifetime pilgrimage to the sacred Holy Cave of Lord Shiva at 12,756 ft with complete peace of mind. Noor-e-Jheel coordinates complete on-ground logistics, helicopter ticket assistance, verified stays at Baltal/Pahalgam, and VIP darshan guidance.",
+    "hero_image": "/images/spiritual/amarnath-yatra.jpg",
+    "highlights": [
+      "Assistance with official Amarnath Yatra registration & medical permits",
+      "Helicopter booking support (Baltal - Panchtarni - Baltal route)",
+      "Comfortable pre-booked luxury Swiss tents or hotels in Baltal/Sonamarg",
+      "Dedicated Srinagar Airport pick up and drop in private cabs",
+      "24/7 dedicated yatra coordinator on the ground"
+    ],
+    "destinations": [
+      "Srinagar",
+      "Pahalgam",
+      "Baltal",
+      "Amarnath Cave"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar & Transfer to Baltal / Sonamarg Base",
+        "description": "Airport pickup and scenic transfer to base camp in Baltal or luxury hotel in Sonamarg. Rest and briefing.",
+        "meals": "Dinner",
+        "stay": "Camp/Hotel in Baltal/Sonamarg"
+      },
+      {
+        "day_number": 2,
+        "title": "Holy Cave Darshan via Helicopter or Trek",
+        "description": "Early morning helicopter from Baltal to Panchtarni. Trek 6 km to the Holy Cave for ice lingam darshan. Return to base camp.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Camp/Hotel in Baltal/Sonamarg"
+      },
+      {
+        "day_number": 3,
+        "title": "Baltal to Srinagar & Houseboat Stay",
+        "description": "Drive back to Srinagar valley. Check in to premium houseboat on Dal Lake. Relaxing evening Shikara ride.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Luxury Houseboat, Dal Lake"
+      },
+      {
+        "day_number": 4,
+        "title": "Departure from Srinagar Airport",
+        "description": "Morning breakfast and transfer to Srinagar Airport for departure.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "3 Nights accommodation (Baltal camp/hotel + Dal Lake Houseboat)",
+      "Daily breakfast and pure vegetarian dinner",
+      "Private sanitized cab from Srinagar Airport return",
+      "Yatra registration and permit document facilitation",
+      "Dal Lake Shikara ride in Srinagar"
+    ],
+    "exclusions": [
+      "Helicopter ticket cost (payable directly as per SASB government tariff)",
+      "Pony / Palki charges if trekking",
+      "Personal medical fitness certificates"
+    ],
+    "gallery": [
+      "/images/spiritual/amarnath-yatra.jpg",
+      "/images/destinations/pahalgam.jpg",
+      "/images/destinations/sonamarg.jpg"
+    ],
+    "faqs": [
+      {
+        "question": "Which route is better: Baltal or Pahalgam?",
+        "answer": "Baltal is shorter (14 km or 10-minute helicopter ride to Panchtarni) and ideal for quick trips. Pahalgam is the traditional scenic route (48 km) taking 3-4 days."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.94,
+    "reviews_count": 62
+  },
+  {
+    "id": "pkg-kashmir-group-tour-6d5n",
+    "title": "Kashmir Group Explorer — Friends & Budget Travellers",
+    "slug": "kashmir-group-tour-6d5n",
+    "category": "group",
+    "duration": "6 Days / 5 Nights",
+    "days": 6,
+    "nights": 5,
+    "starting_price": 20900,
+    "original_price": 26000,
+    "short_description": "Fun-filled group tour with bonfire, Shikara cruise, Gulmarg snow slopes and Pahalgam valley exploration.",
+    "description": "Travel together and make lifelong friends! Ideal for corporate teams, college friends, and solo travelers joining an open group. Great vibe, luxury tempo traveller, music, campfires, and authentic Kashmiri feasts.",
+    "hero_image": "/images/destinations/pahalgam.jpg",
+    "highlights": [
+      "Luxury 17-seater Tempo Traveller with high-bass sound system",
+      "Overnight stay on Dal Lake with group barbecue & music night",
+      "Snow activities and Gondola ride in Gulmarg",
+      "Pahalgam riverside photography and Aru valley walk",
+      "Great group discounts and zero hassle logistics"
+    ],
+    "destinations": [
+      "Delhi",
+      "Srinagar",
+      "Gulmarg",
+      "Pahalgam",
+      "Sonamarg"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Srinagar Arrival & Dal Lake Party Houseboat",
+        "description": "Meet the group at Srinagar Airport. Transfer to houseboats, welcome Kehwa drink, and evening group Shikara race.",
+        "meals": "Dinner",
+        "stay": "Houseboat, Dal Lake"
+      },
+      {
+        "day_number": 2,
+        "title": "Gulmarg Snow Adventures",
+        "description": "Full day in Gulmarg for skiing, snowboarding, and Gondola ride with friends.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 3,
+        "title": "Sonamarg Glaciers & River Rafting",
+        "description": "Visit Sonamarg, trek or sledge to Thajiwas Glacier, optional white water rafting on Sindh river.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 4,
+        "title": "Drive to Pahalgam — Camping & Riverside Fun",
+        "description": "Drive through saffron fields to Pahalgam. Evening bonfire and music beside Lidder River.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Riverside Hotel/Resort, Pahalgam"
+      },
+      {
+        "day_number": 5,
+        "title": "Betaab Valley Exploration & Return to Srinagar",
+        "description": "Explore Betaab Valley and Chandanwari. Drive back to Srinagar for shopping and farewell dinner.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 6,
+        "title": "Departure Flight from Srinagar",
+        "description": "Transfer to Srinagar Airport after breakfast with new friendships and memories.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "5 Nights accommodation on triple/twin sharing",
+      "Daily breakfast and dinner (Wazwan special night)",
+      "Luxury push-back Tempo Traveller transport",
+      "1-Hour Shikara ride",
+      "Dedicated tour lead and group photographer"
+    ],
+    "exclusions": [
+      "Flights to Srinagar",
+      "Personal sports and Gondola tickets"
+    ],
+    "gallery": [
+      "/images/destinations/pahalgam.jpg",
+      "/images/destinations/gulmarg.webp",
+      "/images/destinations/sonamarg.jpg"
+    ],
+    "faqs": [
+      {
+        "question": "Can private groups of 8-15 friends customize their own dates?",
+        "answer": "Yes! For private groups of 6 or more, we create customized private departures at any time of the year."
+      }
+    ],
+    "status": "active",
+    "is_featured": false,
+    "rating": 4.86,
+    "reviews_count": 49
+  },
+  {
+    "id": "pkg-srinagar-tulip-garden-5d4n",
+    "title": "Srinagar Spring & Tulip Festival Special",
+    "slug": "srinagar-tulip-garden-5d4n",
+    "category": "kashmir",
+    "duration": "5 Days / 4 Nights",
+    "days": 5,
+    "nights": 4,
+    "starting_price": 16900,
+    "original_price": 21000,
+    "short_description": "Witness millions of blooming tulips at Asia's largest Tulip Garden against the Zabarwan mountain backdrop.",
+    "description": "Spring in Kashmir is magic incarnate! Visit the Indira Gandhi Memorial Tulip Garden with over 1.5 million blooming tulips of 60+ varieties, almond blossoms in Badamwari, and the glorious Mughal gardens.",
+    "hero_image": "/images/destinations/srinagar.jpg",
+    "highlights": [
+      "VIP access and visit to the grand Indira Gandhi Memorial Tulip Garden",
+      "Badamwari almond blossom park stroll in historic Srinagar",
+      "Romantic Shikara cruise through lotus patches on Dal Lake",
+      "Day excursion to Sonamarg Meadow of Gold",
+      "Pahalgam pine valley visit"
+    ],
+    "destinations": [
+      "Srinagar",
+      "Pahalgam",
+      "Sonamarg"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar & Dal Lake Shikara",
+        "description": "Airport arrival, check-in to heritage houseboat. Evening sunset Shikara cruise.",
+        "meals": "Dinner",
+        "stay": "Houseboat on Dal Lake"
+      },
+      {
+        "day_number": 2,
+        "title": "Tulip Garden Special & Mughal Heritage Tour",
+        "description": "Full morning at Asia's largest Tulip Garden. Afternoon visit to Nishat Bagh and Shalimar Bagh.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 3,
+        "title": "Day Excursion to Sonamarg Snow & Valley",
+        "description": "Scenic trip to Sonamarg. Enjoy pony ride or snow sports at Thajiwas. Return to Srinagar.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 4,
+        "title": "Day Excursion to Pahalgam & Betaab Valley",
+        "description": "Visit Pahalgam, Lidder stream, and Betaab valley. Return to Srinagar for souvenir shopping.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Hotel in Srinagar"
+      },
+      {
+        "day_number": 5,
+        "title": "Farewell Srinagar",
+        "description": "Breakfast and transfer to Srinagar Airport.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "4 Nights accommodation (Houseboat + Hotels)",
+      "Daily breakfast and dinner",
+      "Private AC/heated vehicle",
+      "Shikara ride on Dal Lake",
+      "Tulip Garden entry tickets"
+    ],
+    "exclusions": [
+      "Flights",
+      "Local pony / horse rides"
+    ],
+    "gallery": [
+      "/images/destinations/srinagar.jpg",
+      "/images/packages/kashmir-family-tour.jpg",
+      "/images/banners/honeymoon-shikara.png"
+    ],
+    "faqs": [
+      {
+        "question": "When does the Tulip Garden open?",
+        "answer": "The Tulip Garden usually opens between late March and late April every year, depending on weather and bloom conditions."
+      }
+    ],
+    "status": "active",
+    "is_featured": false,
+    "rating": 4.93,
+    "reviews_count": 51
+  },
+  {
+    "id": "pkg-umrah-20-days",
+    "title": "Holy Umrah Package (20 Days) — Complete Spiritual Solace",
+    "slug": "umrah-package-20-days",
+    "category": "umrah",
+    "duration": "20 Days",
+    "days": 20,
+    "nights": 19,
+    "starting_price": 120000,
+    "original_price": 135000,
+    "short_description": "All-inclusive spiritual journey to Makkah & Madinah with close-proximity hotels, visa, flights & guided Ziyarat.",
+    "description": "Embark on a sacred journey of faith with Noor-e-Jheel's highly revered 20-Day Umrah package. We provide comfortable hotels within easy walking distance from Masjid al-Haram and Masjid an-Nabawi, complete visa processing, direct/connected flights, round-the-clock Kashmiri/Urdu speaking Muallim guidance, and historical Ziyarat tours.",
+    "hero_image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1200&q=80",
+    "highlights": [
+      "10 Days in Makkah Mukarramah & 10 Days in Madinah Munawwarah",
+      "Close distance star-rated hotels (easy walking to Haram shareef)",
+      "Complete Umrah electronic visa and insurance processing",
+      "Comprehensive Ziyarat in Makkah (Ghar-e-Hira, Thawr, Mina, Arafat, Muzdalifah)",
+      "Comprehensive Ziyarat in Madinah (Masjid Quba, Qiblatayn, Mount Uhud, Badr)",
+      "3 Times daily delicious Indian / Kashmiri buffet meals",
+      "Complimentary 5 Litre Zamzam water can and Umrah travel kit"
+    ],
+    "destinations": [
+      "Makkah",
+      "Madinah",
+      "Ziyarat Sites"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Departure from Srinagar/Delhi to Jeddah & Umrah in Makkah",
+        "description": "Board your flight in Ihram. Arrival at Jeddah Airport, AC coach transfer to Makkah hotel. Perform first Umrah under guidance of experienced Muallim.",
+        "meals": "Dinner",
+        "stay": "Star Hotel near Haram, Makkah"
+      },
+      {
+        "day_number": 2,
+        "title": "Ibadaat in Masjid al-Haram",
+        "description": "Engage in prayers, Tawaf, and recitation in the sacred courtyard of Kaaba.",
+        "meals": "Breakfast, Lunch, Dinner",
+        "stay": "Star Hotel near Haram, Makkah"
+      },
+      {
+        "day_number": 3,
+        "title": "Historic Makkah Ziyarat Tour",
+        "description": "Guided AC coach tour to Jabal al-Nour (Ghar-e-Hira), Jabal Thawr, Mina, Muzdalifah, and Plain of Arafat.",
+        "meals": "Breakfast, Lunch, Dinner",
+        "stay": "Star Hotel near Haram, Makkah"
+      },
+      {
+        "day_number": 4,
+        "title": "Spiritual Days in Makkah (Days 4 - 10)",
+        "description": "Daily prayers, multiple optional Umrahs from Masjid Aisha (Tan'eem) with group transport provided.",
+        "meals": "All Meals Included",
+        "stay": "Star Hotel near Haram, Makkah"
+      },
+      {
+        "day_number": 11,
+        "title": "Transfer from Makkah to Madinah Munawwarah",
+        "description": "Perform farewell Tawaf (Wada). Travel in comfortable luxury AC coach or Haramain High-Speed Train to the City of the Prophet (PBUH). Check in to hotel near Prophet's Mosque.",
+        "meals": "Breakfast, Lunch, Dinner",
+        "stay": "Star Hotel near Nabawi, Madinah"
+      },
+      {
+        "day_number": 12,
+        "title": "Salam at Roza-e-Rasool (PBUH) & Riyazul Jannah",
+        "description": "Present Salam at the Roza Mubarak of Beloved Prophet Muhammad (PBUH) and pray in the heavenly garden of Riyazul Jannah with Nusuk permit assistance.",
+        "meals": "Breakfast, Lunch, Dinner",
+        "stay": "Star Hotel near Nabawi, Madinah"
+      },
+      {
+        "day_number": 13,
+        "title": "Historic Madinah Ziyarat Tour",
+        "description": "Visit Masjid Quba (2 Rakat prayer equivalent to Umrah), Masjid Qiblatayn, battleground of Mount Uhud and Martyrs' graves.",
+        "meals": "Breakfast, Lunch, Dinner",
+        "stay": "Star Hotel near Nabawi, Madinah"
+      },
+      {
+        "day_number": 14,
+        "title": "Ibadaat in Masjid an-Nabawi (Days 14 - 19)",
+        "description": "Consecutive prayers in the Prophet's Mosque, spiritual lectures, Quran circles, and dates shopping in local markets.",
+        "meals": "All Meals Included",
+        "stay": "Star Hotel near Nabawi, Madinah"
+      },
+      {
+        "day_number": 20,
+        "title": "Departure from Madinah/Jeddah to India",
+        "description": "Final Salam at Roza Mubarak. Transfer to airport with 5L Zamzam water cans. Return home spiritually rejuvenated.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "Saudi Arabia Umrah Visa with mandatory medical insurance",
+      "Return airfare tickets from Delhi/Srinagar",
+      "10 Nights Makkah + 9 Nights Madinah in star hotels within walking distance",
+      "3 Times daily quality Indian/Kashmiri buffet food",
+      "Full AC coach ground transportation in Saudi Arabia",
+      "Complete historical Ziyarat in Makkah and Madinah with guide",
+      "Free 5-Litre packed Zamzam can for every pilgrim",
+      "Complimentary Umrah Kit (Trolley bag, shoulder bag, Ihram/Abaya, book)"
+    ],
+    "exclusions": [
+      "Any individual laundry or room service expenses",
+      "Wheelchair hire or private helpers in Haram"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=800&q=80"
+    ],
+    "faqs": [
+      {
+        "question": "Can senior citizens travel alone on this Umrah tour?",
+        "answer": "Yes! Noor-e-Jheel has dedicated group leaders who accompany pilgrims from Srinagar/Delhi airport and provide 24/7 care and assistance."
+      },
+      {
+        "question": "Are private rooms available for couples and families?",
+        "answer": "Yes, we offer Quad (sharing 4), Triple (sharing 3), and Double (private couple room) packages. WhatsApp our team for room-specific rates."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.98,
+    "reviews_count": 180
+  },
+  {
+    "id": "pkg-umrah-1-month",
+    "title": "Holy Umrah Package (1 Month / 30 Days) — Extended Devotion",
+    "slug": "umrah-package-1-month",
+    "category": "umrah",
+    "duration": "1 Month (30 Days)",
+    "days": 30,
+    "nights": 29,
+    "starting_price": 135000,
+    "original_price": 155000,
+    "short_description": "Extended 30-day spiritual immersion in Makkah and Madinah with total focus on prayers, Quran, and Tahajjud.",
+    "description": "For those seeking deep spiritual solitude and prolonged stays in the two Holy Sanctuaries. Spend 15 peaceful nights in Makkah and 15 days in Madinah with complete peace of mind, full board meals, and close-proximity hotel accommodations.",
+    "hero_image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=1200&q=80",
+    "highlights": [
+      "15 Days in Makkah Mukarramah + 15 Days in Madinah Munawwarah",
+      "Unmatched value for 1 month full-board stay with 3 daily meals",
+      "Hotels within easy walking distance from Haram boundary",
+      "Complete Umrah Visa + Return Airfare + Luxury ground transfers",
+      "Multiple guided Ziyarat trips to historical Islamic landmarks",
+      "Dedicated group leader and medical support team"
+    ],
+    "destinations": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Badr"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Departure & Arrival in Holy Makkah",
+        "description": "Flight from India to Jeddah. AC transfer to Makkah hotel, perform Umrah with guide.",
+        "meals": "Dinner",
+        "stay": "Hotel near Haram, Makkah"
+      },
+      {
+        "day_number": 2,
+        "title": "Makkah Spiritual Residency (Days 2 - 15)",
+        "description": "15 days dedicated to worship, Tawaf, Tahajjud, and Quran completion in Masjid al-Haram. Includes comprehensive Ziyarat and optional day excursion to Taif.",
+        "meals": "Breakfast, Lunch, Dinner",
+        "stay": "Hotel near Haram, Makkah"
+      },
+      {
+        "day_number": 16,
+        "title": "Transfer to Madinah Munawwarah",
+        "description": "Travel in AC coach to Madinah. Check in and present emotional Salam at Roza-e-Rasool (PBUH).",
+        "meals": "Breakfast, Lunch, Dinner",
+        "stay": "Hotel near Nabawi, Madinah"
+      },
+      {
+        "day_number": 17,
+        "title": "Madinah Spiritual Residency (Days 17 - 29)",
+        "description": "14 peaceful days in the Prophet's sanctuary. Guided Ziyarat to Uhud, Quba, Khandaq, and dates markets.",
+        "meals": "Breakfast, Lunch, Dinner",
+        "stay": "Hotel near Nabawi, Madinah"
+      },
+      {
+        "day_number": 30,
+        "title": "Return Journey to India",
+        "description": "Final farewell prayers and transfer to Madinah/Jeddah Airport with 5L Zamzam.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "30 Days / 29 Nights accommodation in vetted star hotels",
+      "Saudi Umrah visa and medical coverage",
+      "Return flight tickets",
+      "3 Times daily Indian / Kashmiri buffet meals",
+      "All intercity and airport transfers in luxury buses",
+      "Comprehensive Ziyarat in Makkah, Madinah & Taif",
+      "Complimentary Zamzam 5L canister and travel kit"
+    ],
+    "exclusions": [
+      "Personal shopping and laundry charges"
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1564769625905-50e93615e769?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "faqs": [
+      {
+        "question": "Are laundry services available for the 30-day stay?",
+        "answer": "Yes, affordable group laundry packages or in-hotel self laundry options are easily accessible in both Makkah and Madinah."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.96,
+    "reviews_count": 92
+  },
+  {
+    "id": "pkg-romantic-kashmir-honeymoon-6d5n",
+    "title": "Romantic Kashmir Honeymoon with Luxury Houseboat",
+    "slug": "romantic-kashmir-honeymoon-6d5n",
+    "category": "honeymoon",
+    "duration": "6 Days / 5 Nights",
+    "days": 6,
+    "nights": 5,
+    "starting_price": 28500,
+    "original_price": 35000,
+    "short_description": "A fairytale romantic escape — candlelit houseboat dinner, floral Shikara ride, Gulmarg snow slopes & scenic Pahalgam.",
+    "description": "Celebrate love in the Venice of the East! Crafted exclusively for newlyweds seeking timeless romance, privacy, and indulgence. Experience private Shikara sunset rides decorated with flowers, candlelit Wazwan dinners, a luxury heritage houseboat suite, and scenic private cab rides through Gulmarg and Betaab Valley.",
+    "hero_image": "/images/banners/honeymoon-shikara.png",
+    "highlights": [
+      "Flower-decorated bed and complimentary honeymoon cake on arrival",
+      "Private candlelit dinner on a luxury cedar-wood houseboat",
+      "2-Hour floral Shikara sunset cruise on Dal Lake",
+      "Gondola snow experience together in Gulmarg",
+      "Romantic stroll along Lidder River in Pahalgam",
+      "Private chauffeur in executive sedan for maximum privacy"
+    ],
+    "destinations": [
+      "Srinagar",
+      "Dal Lake",
+      "Gulmarg",
+      "Pahalgam"
+    ],
+    "itinerary": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar & Dal Lake Romantic Shikara",
+        "description": "Private chauffeur greets you with Kashmiri roses. Check in to premium luxury houseboat suite. Evening romantic 2-hour Shikara ride into the golden sunset. Special candlelight dinner & honeymoon cake.",
+        "meals": "Candlelight Dinner & Cake",
+        "stay": "Heritage Royal Houseboat, Dal Lake"
+      },
+      {
+        "day_number": 2,
+        "title": "Srinagar to Gulmarg — Love in the Snow",
+        "description": "Scenic drive to Gulmarg. Take the Gondola cable car up to the snow-cloaked peaks of Apharwat. Take romantic couple photos against Himalayan panoramas.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Boutique Resort, Srinagar"
+      },
+      {
+        "day_number": 3,
+        "title": "Srinagar to Pahalgam — Valley of Shepherds",
+        "description": "Drive through saffron fields of Pampore. Arrive at romantic riverside resort in Pahalgam. Evening riverside walk listening to Lidder river.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Riverside Boutique Resort, Pahalgam"
+      },
+      {
+        "day_number": 4,
+        "title": "Betaab Valley & Aru Valley Romantic Exploration",
+        "description": "Visit the iconic Betaab Valley (named after the Bollywood romance film) and green meadows of Aru Valley. Enjoy a quiet riverside picnic.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Riverside Boutique Resort, Pahalgam"
+      },
+      {
+        "day_number": 5,
+        "title": "Pahalgam to Srinagar & Mughal Garden Moments",
+        "description": "Return to Srinagar. Visit the Royal Spring at Chashme Shahi and Nishat Bagh terraced garden overlooking the lake. Evening souvenir shopping.",
+        "meals": "Breakfast & Dinner",
+        "stay": "Boutique Resort, Srinagar"
+      },
+      {
+        "day_number": 6,
+        "title": "Sweet Departure from Srinagar",
+        "description": "Hearty breakfast and airport drop with warm wishes from Noor-e-Jheel.",
+        "meals": "Breakfast",
+        "stay": "Tour Ends"
+      }
+    ],
+    "inclusions": [
+      "5 Nights accommodation (1 Night Royal Houseboat + 4 Nights Boutique Resorts)",
+      "Daily gourmet breakfast and dinner",
+      "1 Special Candlelight dinner with flower bed decor & honeymoon cake",
+      "Private dedicated executive sedan cab throughout",
+      "2-Hour Dal Lake sunset Shikara cruise",
+      "All tolls, parking, and driver allowances"
+    ],
+    "exclusions": [
+      "Airfare tickets",
+      "Gulmarg Gondola tickets",
+      "Local pony rides"
+    ],
+    "gallery": [
+      "/images/banners/honeymoon-shikara.png",
+      "/images/destinations/srinagar.jpg",
+      "/images/destinations/gulmarg.webp",
+      "/images/destinations/pahalgam.jpg"
+    ],
+    "faqs": [
+      {
+        "question": "Can we customize the honeymoon inclusions (e.g. professional photographer)?",
+        "answer": "Yes! We can add a professional Kashmiri photoshoot session, horse riding, or specific luxury 5-star resorts like The Khyber upon request."
+      }
+    ],
+    "status": "active",
+    "is_featured": true,
+    "rating": 4.98,
+    "reviews_count": 128
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "enq-mufat4a8-s5k",
+    "created_at": "2026-09-24T08:57:07.568Z",
+    "name": "Test Lead",
+    "phone": "+91 98765 00000",
+    "email": "",
+    "package_title": "Kashmir Offbeat",
+    "destinations": [],
+    "travel_date": "",
+    "travellers": "N/A",
+    "duration": "",
+    "hotel_category": "",
+    "cab_type": "",
+    "budget": "",
+    "notes": "",
+    "source": "Verification Test",
+    "status": "New"
+  },
+  {
+    "id": "enq-101",
+    "created_at": "2026-09-24T09:15:00Z",
+    "name": "Kavita Singhal",
+    "phone": "+91 98201 12345",
+    "email": "kavita.singhal@gmail.com",
+    "package_title": "Romantic Kashmir Honeymoon with Luxury Houseboat",
+    "travel_date": "2026-10-15",
+    "travellers": "2 Adults",
+    "duration": "6 Days",
+    "hotel_category": "4 Star / Boutique Houseboat",
+    "budget": "₹60,000 - ₹80,000",
+    "notes": "Looking for candlelit dinner and Gulmarg Phase 2 gondola assistance.",
+    "source": "Custom Trip Form",
+    "status": "Contacted"
+  },
+  {
+    "id": "enq-102",
+    "created_at": "2026-09-24T11:40:00Z",
+    "name": "Mohammed Tariq",
+    "phone": "+91 94191 88990",
+    "email": "tariq.srinagar@gmail.com",
+    "package_title": "Holy Umrah Package (20 Days)",
+    "travel_date": "2026-11-10",
+    "travellers": "4 Adults (Parents + Couple)",
+    "duration": "20 Days",
+    "hotel_category": "Star Hotel Walking Distance to Haram",
+    "budget": "₹4,50,000 Total",
+    "notes": "Need wheelchair assistance for elderly mother in Makkah.",
+    "source": "WhatsApp Enquire Button",
+    "status": "New"
+  }
+]
