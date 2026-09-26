@@ -1,14 +1,17 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Phone, Mail, MapPin, MessageCircle } from 'lucide-react';
+import { Phone, Mail, MapPin, MessageCircle, Navigation } from 'lucide-react';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 
 export default function Footer({ settings }) {
   const whatsappUrl = buildGeneralWhatsAppUrl("Hello NOOR-E-JHEEL TOUR AND TRAVEL! I would like to enquire about your tour packages.", settings);
   const phoneNumber = settings?.phone || "+91 78896 89811";
   const cleanPhone = phoneNumber.replace(/\s+/g, '');
+  const altPhone = settings?.alt_phone || "+91 90708 99749";
+  const cleanAltPhone = altPhone.replace(/\s+/g, '');
   const email = settings?.email || "noorjheel78@gmail.com";
-  const address = settings?.address || "Nowpora, Khanyar, Srinagar, Jammu & Kashmir 190003";
+  const address = settings?.address || "Parimpora, Qamarwari, Srinagar, Jammu & Kashmir 190017";
+  const mapUrl = settings?.google_maps_url || "https://share.google/Exz3T7BoYsUdk8qD9";
 
   return (
     <footer className="bg-[#0a0d10] text-slate-300 border-t border-white/10">
@@ -22,6 +25,17 @@ export default function Footer({ settings }) {
                 className="h-16 w-auto object-contain"
               />
             </Link>
+            <div>
+              <a
+                href={mapUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/5 hover:bg-white/10 border border-white/10 text-xs text-[#c89f56] font-medium transition-colors"
+              >
+                <Navigation className="w-3.5 h-3.5 shrink-0" />
+                <span>Navigate to Office (GPS)</span>
+              </a>
+            </div>
           </div>
 
           <div className="space-y-4">
@@ -45,11 +59,16 @@ export default function Footer({ settings }) {
               Get in Touch
             </h4>
             <div className="space-y-2.5 text-xs text-slate-400">
-              <div className="flex items-center gap-2.5">
-                <Phone className="w-3.5 h-3.5 text-[#c89f56] shrink-0" />
-                <a href={`tel:${cleanPhone}`} className="hover:text-white transition-colors">
-                  {phoneNumber}
-                </a>
+              <div className="flex items-start gap-2.5">
+                <Phone className="w-3.5 h-3.5 text-[#c89f56] shrink-0 mt-0.5" />
+                <div className="flex flex-col gap-0.5">
+                  <a href={`tel:${cleanPhone}`} className="hover:text-white transition-colors">
+                    {phoneNumber}
+                  </a>
+                  <a href={`tel:${cleanAltPhone}`} className="hover:text-white transition-colors text-[11px] text-slate-400">
+                    Alt: {altPhone}
+                  </a>
+                </div>
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail className="w-3.5 h-3.5 text-[#c89f56] shrink-0" />
@@ -59,7 +78,18 @@ export default function Footer({ settings }) {
               </div>
               <div className="flex items-start gap-2.5">
                 <MapPin className="w-3.5 h-3.5 text-[#c89f56] shrink-0 mt-0.5" />
-                <span>{address}</span>
+                <div>
+                  <p>{address}</p>
+                  <a
+                    href={mapUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1 text-xs text-[#c89f56] hover:text-[#dfb974] transition-colors font-medium mt-1"
+                  >
+                    <Navigation className="w-3 h-3 shrink-0" />
+                    <span>Open in Maps</span>
+                  </a>
+                </div>
               </div>
             </div>
           </div>

@@ -43,7 +43,7 @@ export default function PrivacyPolicyPage() {
           <section className="space-y-2">
             <h2 className="text-base font-bold text-slate-900">4. Contact Information</h2>
             <p className="text-black">
-              If you have any questions regarding our privacy practices, please contact us at <strong>noorjheel78@gmail.com</strong>, call/WhatsApp us at <strong>+91 78896 89811</strong>, or visit our office at Nowpora, Khanyar, Srinagar, Jammu & Kashmir 190003.
+              If you have any questions regarding our privacy practices, please contact us at <strong>noorjheel78@gmail.com</strong>, call/WhatsApp us at <strong>+91 78896 89811</strong> (Alt: <strong>+91 90708 99749</strong>), or visit our office at Parimpora, Qamarwari, Srinagar, Jammu & Kashmir 190017.
             </p>
           </section>
         </div>

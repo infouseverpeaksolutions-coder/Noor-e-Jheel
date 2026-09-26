@@ -47,7 +47,7 @@ export default function AboutPage({ settings }) {
               "Noor-e-Jheel" translates to <em>"The Radiance of the Lake"</em>. Founded by seasoned Kashmiri mountaineers and hospitality experts, we started with a singular vision: to offer travelers authentic, deep, and worry-free explorations of Jammu, Kashmir, Ladakh, and holy pilgrimages.
             </p>
             <p className="text-sm text-black leading-relaxed font-normal">
-              Unlike online travel conglomerates who outsource travelers to third-party sub-contractors, NOOR-E-JHEEL TOUR AND TRAVEL maintains our own on-ground logistics headquarters in Nowpora, Khanyar, Srinagar 190003. Our chauffeurs, houseboat caretakers, and valley guides are our own trusted family.
+              Unlike online travel conglomerates who outsource travelers to third-party sub-contractors, NOOR-E-JHEEL TOUR AND TRAVEL maintains our own on-ground logistics headquarters in Parimpora, Qamarwari, Srinagar 190017. Our chauffeurs, houseboat caretakers, and valley guides are our own trusted family.
             </p>
           </div>
 

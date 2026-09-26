@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MapPin, Phone, Mail, Clock, MessageCircle, Send, CheckCircle2, ShieldCheck } from 'lucide-react';
+import { MapPin, Phone, Mail, Clock, MessageCircle, Send, CheckCircle2, ShieldCheck, Navigation } from 'lucide-react';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 import { api } from '../services/api';
 import SEOHead from '../components/SEOHead';
@@ -15,10 +15,12 @@ export default function ContactPage({ settings }) {
   const [sent, setSent] = useState(false);
 
   const phoneNumber = settings?.phone || "+91 78896 89811";
-  const altPhone = settings?.alt_phone || "+91 78896 89811";
+  const altPhone = settings?.alt_phone || "+91 90708 99749";
   const cleanPhone = phoneNumber.replace(/\s+/g, '');
+  const cleanAltPhone = altPhone.replace(/\s+/g, '');
   const email = settings?.email || "noorjheel78@gmail.com";
-  const address = settings?.address || "Nowpora, Khanyar, Srinagar, Jammu & Kashmir 190003";
+  const address = settings?.address || "Parimpora, Qamarwari, Srinagar, Jammu & Kashmir 190017";
+  const mapUrl = settings?.google_maps_url || "https://share.google/Exz3T7BoYsUdk8qD9";
   const whatsappUrl = buildGeneralWhatsAppUrl("Hello NOOR-E-JHEEL TOUR AND TRAVEL! I am reaching out through your website contact page.", settings);
 
   const handleContactSubmit = (e) => {
@@ -50,7 +52,7 @@ export default function ContactPage({ settings }) {
     <div className="min-h-screen bg-white text-slate-900 pb-20">
       <SEOHead
         title="Contact Us | NOOR-E-JHEEL TOUR AND TRAVEL Srinagar"
-        description="Contact NOOR-E-JHEEL TOUR AND TRAVEL in Nowpora, Khanyar, Srinagar 190003. Direct WhatsApp quotes on 7889689811, 24/7 helpline, and custom Kashmir tour bookings."
+        description="Contact NOOR-E-JHEEL TOUR AND TRAVEL in Parimpora, Qamarwari, Srinagar 190017. Direct WhatsApp quotes on 7889689811, 24/7 helpline, and custom Kashmir tour bookings."
       />
 
       <div className="relative py-20 px-4 sm:px-6 lg:px-8 bg-[#0a0d10] text-center overflow-hidden">
@@ -62,7 +64,7 @@ export default function ContactPage({ settings }) {
             Get in Touch With Us
           </h1>
           <p className="text-slate-200 text-sm max-w-xl mx-auto">
-            Our local tour specialists are based in Nowpora, Khanyar, Srinagar 190003. Chat on WhatsApp at 7889689811 or call our round-the-clock helpline.
+            Our local tour specialists are based in Parimpora, Qamarwari, Srinagar 190017. Chat on WhatsApp at 7889689811 or call our round-the-clock helpline.
           </p>
         </div>
       </div>
@@ -82,6 +84,15 @@ export default function ContactPage({ settings }) {
                 <div>
                   <h4 className="text-xs font-bold text-slate-600 uppercase tracking-wider">Office Address</h4>
                   <p className="text-xs text-black font-medium mt-1 leading-relaxed">{address}</p>
+                  <a
+                    href={mapUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 text-xs text-[#c89f56] hover:text-[#9d7835] font-semibold mt-1.5"
+                  >
+                    <Navigation className="w-3.5 h-3.5" />
+                    <span>Open GPS Navigation</span>
+                  </a>
                 </div>
               </div>
 
@@ -94,7 +105,9 @@ export default function ContactPage({ settings }) {
                   <p className="text-xs text-black font-semibold mt-1">
                     <a href={`tel:${cleanPhone}`} className="hover:text-[#c89f56]">{phoneNumber}</a>
                   </p>
-                  <p className="text-xs text-black">Alt: {altPhone}</p>
+                  <p className="text-xs text-black mt-0.5">
+                    Alt: <a href={`tel:${cleanAltPhone}`} className="hover:text-[#c89f56] font-medium">{altPhone}</a>
+                  </p>
                 </div>
               </div>
 
@@ -122,7 +135,17 @@ export default function ContactPage({ settings }) {
               </div>
             </div>
 
-            <div className="pt-4 border-t border-slate-200">
+            <div className="pt-4 border-t border-slate-200 space-y-2.5">
+              <a
+                href={mapUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-[#0a0d10] hover:bg-slate-800 text-[#c89f56] font-bold text-xs shadow-md transition-all border border-[#c89f56]/30"
+              >
+                <Navigation className="w-4 h-4" />
+                <span>Navigate to Shop / Office (GPS)</span>
+              </a>
+
               <a
                 href={whatsappUrl}
                 target="_blank"
