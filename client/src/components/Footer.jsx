@@ -138,7 +138,13 @@ export default function Footer({ settings }) {
         </div>
 
         <div className="mt-14 pt-6 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-slate-500">
-          <p>© 2025 NOOR-E-JHEEL TOUR AND TRAVEL. All Rights Reserved.</p>
+          <div className="flex flex-col sm:flex-row items-center gap-1 sm:gap-3 text-center sm:text-left">
+            <p>© 2025 NOOR-E-JHEEL TOUR AND TRAVEL. All Rights Reserved.</p>
+            <span className="hidden sm:inline text-slate-700">•</span>
+            <p className="text-slate-400">
+              Designed & Developed by <span className="text-[#c89f56] font-medium">EverPeak Solutions</span>
+            </p>
+          </div>
           <div className="flex items-center gap-4">
             <Link to="/privacy-policy" className="hover:text-slate-300 transition-colors">Privacy Policy</Link>
             <span>|</span>
