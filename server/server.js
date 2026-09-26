@@ -45,7 +45,11 @@ app.use((err, req, res, _next) => {
   });
 });
 
-app.listen(PORT, () => {
-  console.log(`server listening on http://localhost:${PORT}`);
-  console.log(`json store: ${path.join(__dirname, 'data')}`);
-});
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`server listening on http://localhost:${PORT}`);
+    console.log(`json store: ${path.join(__dirname, 'data')}`);
+  });
+}
+
+module.exports = app;

@@ -47,16 +47,22 @@ async function readJsonFile(filePath, defaultValue = []) {
 async function writeJsonFile(filePath, data) {
   const lock = getLock(filePath);
   return lock.acquire(async () => {
-    const fullPath = path.resolve(filePath);
-    const dir = path.dirname(fullPath);
-    await fs.mkdir(dir, { recursive: true });
+    try {
+      const fullPath = path.resolve(filePath);
+      const dir = path.dirname(fullPath);
+      await fs.mkdir(dir, { recursive: true });
 
-    const tempPath = `${fullPath}.${Date.now()}.${Math.random().toString(36).slice(2)}.tmp`;
-    const jsonString = JSON.stringify(data, null, 2);
+      const tempPath = `${fullPath}.${Date.now()}.${Math.random().toString(36).slice(2)}.tmp`;
+      const jsonString = JSON.stringify(data, null, 2);
 
-    await fs.writeFile(tempPath, jsonString, 'utf8');
-    await fs.rename(tempPath, fullPath);
-    return true;
+      await fs.writeFile(tempPath, jsonString, 'utf8');
+      await fs.rename(tempPath, fullPath);
+      return true;
+    } catch (err) {
+      // serverless environments (e.g. vercel lambda) have read-only filesystems
+      console.warn(`[fileStorage] write skipped (${err.message}) for ${filePath}`);
+      return false;
+    }
   });
 }
 
