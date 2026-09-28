@@ -1,0 +1,563 @@
+[
+  {
+    "id": "dest-srinagar",
+    "name": "Srinagar",
+    "slug": "srinagar",
+    "region": "kashmir",
+    "tagline": "The Venice of the East & Heart of the Valley",
+    "description": "Srinagar, the summer capital of Jammu & Kashmir, is world-famous for its tranquil Dal and Nigeen Lakes, floating vegetable gardens, hand-carved cedar houseboats, and Mughal terraced gardens built by emperors who called it paradise on earth.",
+    "hero_image": "/images/destinations/srinagar.jpg",
+    "best_time_to_visit": "April to October (Pleasant greenery) & Dec to Feb (Snow lovers)",
+    "temperature_summary": "Summer: 15°C - 30°C | Winter: -3°C - 10°C",
+    "how_to_reach": "Fly directly into Sheikh ul-Alam International Airport (SXR), located just 12 km from Srinagar city center.",
+    "top_attractions": [
+      "Dal Lake & Shikara Rides",
+      "Nishat & Shalimar Mughal Gardens",
+      "Hazratbal Dargah",
+      "Shankaracharya Temple",
+      "Old Srinagar Heritage Walk",
+      "Tulip Garden"
+    ],
+    "top_activities": [
+      "Houseboat Stay",
+      "Sunset Shikara Ride",
+      "Authentic Wazwan Dining",
+      "Pashmina & Saffron Shopping",
+      "Photography at Char Chinar"
+    ],
+    "gallery": [
+      "/images/destinations/srinagar.jpg",
+      "/images/packages/kashmir-family-tour.jpg",
+      "/images/banners/honeymoon-shikara.png"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-gulmarg",
+    "name": "Gulmarg",
+    "slug": "gulmarg",
+    "region": "kashmir",
+    "tagline": "Meadow of Flowers & Asia's Premier Ski Paradise",
+    "description": "Perched at 8,690 ft, Gulmarg is an alpine wonderland boasting the world's second highest operating cable car (the Gulmarg Gondola), powdery ski slopes in winter, and rolling green golf courses and wildflower meadows in summer.",
+    "hero_image": "/images/destinations/gulmarg.webp",
+    "best_time_to_visit": "Dec to March for deep powder snow & skiing; May to Sept for verdant green meadows.",
+    "temperature_summary": "Summer: 13°C - 24°C | Winter: -8°C - 4°C",
+    "how_to_reach": "51 km (approx. 1.5 - 2 hrs) scenic mountain drive from Srinagar Airport.",
+    "top_attractions": [
+      "Gulmarg Gondola (Phase 1 & 2)",
+      "Apharwat Peak (13,780 ft)",
+      "St. Mary's Church",
+      "High Altitude Golf Course",
+      "Maharani Temple"
+    ],
+    "top_activities": [
+      "Skiing & Snowboarding",
+      "Gondola Ride",
+      "Snowmobiling",
+      "Pony Trekking",
+      "Alpine Photography"
+    ],
+    "gallery": [
+      "/images/destinations/gulmarg.webp",
+      "/images/packages/kashmir-tour-package.jpg"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-pahalgam",
+    "name": "Pahalgam",
+    "slug": "pahalgam",
+    "region": "kashmir",
+    "tagline": "Valley of Shepherds & Confluence of Lidder Streams",
+    "description": "Surrounded by soaring pine forests, glacial streams, and snow-crowned peaks, Pahalgam is the serene gateway to the Amarnath Yatra and home to the world-renowned Betaab and Aru Valleys.",
+    "hero_image": "/images/destinations/pahalgam.jpg",
+    "best_time_to_visit": "March to November for lush scenery and Lidder riverside stays.",
+    "temperature_summary": "Summer: 11°C - 25°C | Winter: -5°C - 7°C",
+    "how_to_reach": "95 km (approx. 2.5 hrs) drive from Srinagar via the fragrant saffron fields of Pampore.",
+    "top_attractions": [
+      "Betaab Valley",
+      "Aru Valley",
+      "Chandanwari",
+      "Baisaran (Mini Switzerland)",
+      "Lidder Amusement Park",
+      "Mamleshwar Temple"
+    ],
+    "top_activities": [
+      "Trout Angling in Lidder River",
+      "Horse Riding to Baisaran",
+      "River Rafting",
+      "Alpine Camping",
+      "Trekking"
+    ],
+    "gallery": [
+      "/images/destinations/pahalgam.jpg",
+      "/images/packages/kashmir-tour-package.jpg"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-sonamarg",
+    "name": "Sonamarg",
+    "slug": "sonamarg",
+    "region": "kashmir",
+    "tagline": "The Meadow of Gold & Gateway to Ladakh",
+    "description": "Nestled in the Sindh Valley at 9,000 ft, Sonamarg is framed by majestic glaciers, roaring mountain rivers, and alpine flower pastures. It serves as the base for Thajiwas Glacier and the Baltal Amarnath route.",
+    "hero_image": "/images/destinations/sonamarg.jpg",
+    "best_time_to_visit": "April to October (Accessible via Srinagar-Leh highway).",
+    "temperature_summary": "Summer: 9°C - 22°C | Winter: Heavy snow closure (-12°C)",
+    "how_to_reach": "80 km (approx. 2 hrs) scenic drive from Srinagar following the gushing Sindh River.",
+    "top_attractions": [
+      "Thajiwas Glacier",
+      "Sindh River Rapids",
+      "Baltal Base Camp",
+      "Zoji La Pass gateway",
+      "Zero Point Snow"
+    ],
+    "top_activities": [
+      "Glacier Sledge Rides",
+      "White Water Rafting",
+      "Trout Fishing",
+      "Trekking to Vishansar & Kishansar Lakes"
+    ],
+    "gallery": [
+      "/images/destinations/sonamarg.jpg",
+      "/images/destinations/pahalgam.jpg"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-doodhpathri",
+    "name": "Doodhpathri",
+    "slug": "doodhpathri",
+    "region": "kashmir",
+    "tagline": "Valley of Milk & Untouched Green Slopes",
+    "description": "A tranquil eco-paradise in Budgam district where the roaring Shaliganga river foams like pure white milk over pebbles. Surrounded by dense deodar forests, it remains blessedly calm and pristine.",
+    "hero_image": "/images/destinations/doodhpathri.jpg",
+    "best_time_to_visit": "May to October for green velvet meadows.",
+    "temperature_summary": "Summer: 10°C - 23°C | Winter: -4°C - 8°C",
+    "how_to_reach": "42 km (approx. 1.5 hrs) picturesque drive from Srinagar.",
+    "top_attractions": [
+      "Shaliganga River Valley",
+      "Tataboti Pastures",
+      "Deodar Forests"
+    ],
+    "top_activities": [
+      "Riverside picnics",
+      "Horse rides across open meadows",
+      "Nature photography"
+    ],
+    "gallery": [
+      "/images/destinations/doodhpathri.jpg",
+      "/images/packages/kashmir-offbeat-package.jpg"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-gurez",
+    "name": "Gurez Valley",
+    "slug": "gurez-valley",
+    "region": "kashmir",
+    "tagline": "The Crown of Kashmir & Land of Habba Khatoon",
+    "description": "Secluded beyond the 11,672 ft Razdan Pass, Gurez is a breathtaking remote valley where the turquoise Kishanganga River flows beside the triangular Habba Khatoon peak. The people speak the Dardic-Shina tongue and offer authentic mountain warmth.",
+    "hero_image": "/images/destinations/gurez.jpg",
+    "best_time_to_visit": "June to September when Razdan Pass is snow-free.",
+    "temperature_summary": "Summer: 8°C - 20°C | Winter: Heavily snowbound",
+    "how_to_reach": "125 km (approx. 5-6 hrs) scenic drive from Srinagar via Bandipora and Razdan Pass.",
+    "top_attractions": [
+      "Habba Khatoon Peak & Spring",
+      "Dawar Main Town",
+      "Tulail Valley",
+      "Chakwali LOC Border Village"
+    ],
+    "top_activities": [
+      "Riverside Camping",
+      "Trout Angling",
+      "Stargazing",
+      "Border Village Walks"
+    ],
+    "gallery": [
+      "/images/destinations/gurez.jpg",
+      "/images/packages/kashmir-offbeat-package.jpg"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-bungus",
+    "name": "Bungus Valley",
+    "slug": "bungus-valley",
+    "region": "kashmir",
+    "tagline": "The Hidden Highland Wilderness of Kupwara",
+    "description": "Spanning over 300 square kilometers of virgin alpine pastures, Bungus is divided into Bod Bungus (Greater Bungus) and Lokut Bungus (Lesser Bungus). It is an untouched haven of wild flora and fauna.",
+    "hero_image": "/images/destinations/bungus.jpg",
+    "best_time_to_visit": "June to September.",
+    "temperature_summary": "Summer: 10°C - 22°C",
+    "how_to_reach": "115 km from Srinagar via Handwara / Kupwara, followed by a light trek or 4x4 trail.",
+    "top_attractions": [
+      "Bod Bungus Valley",
+      "Lokut Bungus Meadows",
+      "Wild Lily Fields"
+    ],
+    "top_activities": [
+      "Off-grid Eco Trekking",
+      "Wilderness Camping",
+      "Landscape Photography"
+    ],
+    "gallery": [
+      "/images/destinations/bungus.jpg",
+      "/images/packages/kashmir-offbeat-package.jpg"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-drung",
+    "name": "Drung Waterfall",
+    "slug": "drung",
+    "region": "kashmir",
+    "tagline": "The Frozen Winter Cascade of Tangmarg",
+    "description": "Located near Tangmarg on the way to Gulmarg, Drung features a roaring waterfall that completely freezes into majestic ice pillars during peak winter, creating an otherworldly icy fairytale.",
+    "hero_image": "/images/destinations/drung.jpg",
+    "best_time_to_visit": "December to February for the frozen waterfall; May to August for lush greenery.",
+    "temperature_summary": "Summer: 14°C - 25°C | Winter: -6°C - 2°C",
+    "how_to_reach": "42 km from Srinagar, 10 minutes diversion from Tangmarg town.",
+    "top_attractions": [
+      "Drung Frozen Waterfall",
+      "Old Power House",
+      "Pine gorge"
+    ],
+    "top_activities": [
+      "Winter ice photography",
+      "Stream-side Kehwa breaks"
+    ],
+    "gallery": [
+      "/images/destinations/drung.jpg",
+      "/images/destinations/gulmarg.webp"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-verinag",
+    "name": "Verinag",
+    "slug": "verinag",
+    "region": "kashmir",
+    "tagline": "The Origin of River Jhelum & Mughal Octagonal Spring",
+    "description": "Situated at the foothills of the Pir Panjal range, Verinag is where the life-giving Jhelum River emerges from a deep turquoise spring. Emperor Jahangir constructed an octagonal stone basin and lush garden around it in 1620 AD.",
+    "hero_image": "/images/destinations/verinag.jpg",
+    "best_time_to_visit": "April to October.",
+    "temperature_summary": "Summer: 15°C - 28°C",
+    "how_to_reach": "78 km south of Srinagar via the Jammu-Srinagar Highway.",
+    "top_attractions": [
+      "Octagonal Spring Basin",
+      "Jahangir's Garden",
+      "Banihal Foothills"
+    ],
+    "top_activities": [
+      "Historical sightseeing",
+      "Relaxing garden walks"
+    ],
+    "gallery": [
+      "/images/destinations/verinag.jpg",
+      "/images/destinations/srinagar.jpg"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-aru-valley",
+    "name": "Aru Valley",
+    "slug": "aru-valley",
+    "region": "kashmir",
+    "tagline": "Scenic High Meadow & Base for Kolahoi Glacier",
+    "description": "Just 12 km upstream from Pahalgam, Aru is a peaceful postcard village nestled beside gurgling streams and pine woods. It serves as the primary base camp for treks to Kolahoi Glacier and Tarsar Marsar lakes.",
+    "hero_image": "/images/destinations/aru-valley.jpg",
+    "best_time_to_visit": "May to October for trekking; Dec to Feb for peaceful winter snow.",
+    "temperature_summary": "Summer: 10°C - 22°C | Winter: -8°C - 4°C",
+    "how_to_reach": "12 km drive from Pahalgam taxi stand.",
+    "top_attractions": [
+      "Aru Village",
+      "Overa-Aru Biosphere Reserve",
+      "Trek routes to Kolahoi"
+    ],
+    "top_activities": [
+      "Horse riding",
+      "Village homestay experience",
+      "Trekking & Birdwatching"
+    ],
+    "gallery": [
+      "/images/destinations/aru-valley.jpg",
+      "/images/destinations/pahalgam.jpg"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-aharbal",
+    "name": "Aharbal Waterfall",
+    "slug": "aharbal",
+    "region": "kashmir",
+    "tagline": "The Niagara Falls of Kashmir",
+    "description": "In Kulgam district, the roaring Veshav River crashes down a 25-meter sheer basalt cliff in a cloud of spray. Aharbal is beloved for its dramatic volume of water and pine-forested river canyon.",
+    "hero_image": "/images/destinations/aharbal.jpg",
+    "best_time_to_visit": "April to October.",
+    "temperature_summary": "Summer: 12°C - 24°C",
+    "how_to_reach": "70 km from Srinagar via Shopian apple orchards.",
+    "top_attractions": [
+      "Aharbal Fall Viewpoints",
+      "Kungwattan Meadow",
+      "Kounsarnag Lake Trek Base"
+    ],
+    "top_activities": [
+      "Waterfall photography",
+      "Picnics in pine groves",
+      "Trout fishing"
+    ],
+    "gallery": [
+      "/images/destinations/aharbal.jpg",
+      "/images/destinations/doodhpathri.jpg"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-leh",
+    "name": "Leh",
+    "slug": "leh",
+    "region": "ladakh",
+    "tagline": "The High Altitude Desert Capital & Tibetan Citadel",
+    "description": "Set amidst dramatic brown barren mountains at 11,500 ft, Leh is the spiritual and cultural heart of Ladakh, rich with 17th-century palaces, whitewashed stupas, and ancient Buddhist gompas.",
+    "hero_image": "/images/destinations/leh.jpg",
+    "best_time_to_visit": "May to September for clear skies and warm days.",
+    "temperature_summary": "Summer: 12°C - 26°C | Winter: -15°C - 3°C",
+    "how_to_reach": "Fly to Leh Kushok Bakula Rimpochee Airport (IXL) or overland drive via Srinagar-Leh highway.",
+    "top_attractions": [
+      "Leh Palace",
+      "Shanti Stupa",
+      "Hall of Fame",
+      "Leh Main Bazaar",
+      "Spituk Monastery"
+    ],
+    "top_activities": [
+      "Acclimatization walks",
+      "Cafe hopping",
+      "Tibetan souvenir shopping",
+      "Monastery visits"
+    ],
+    "gallery": [
+      "/images/destinations/leh.jpg",
+      "/images/destinations/khardung-la.jpg"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-nubra-valley",
+    "name": "Nubra Valley",
+    "slug": "nubra-valley",
+    "region": "ladakh",
+    "tagline": "Valley of Flowers, Cold Deserts & Double-Humped Camels",
+    "description": "Located north of Leh across the mighty Khardung La, Nubra Valley features an extraordinary contrast of towering snowy peaks and white sand dunes where rare Bactrian double-humped camels roam.",
+    "hero_image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "best_time_to_visit": "May to October.",
+    "temperature_summary": "Summer: 10°C - 24°C",
+    "how_to_reach": "150 km from Leh via Khardung La Pass (approx. 5 hrs).",
+    "top_attractions": [
+      "Hunder White Sand Dunes",
+      "Diskit 106-ft Maitreya Buddha",
+      "Turtuk Village",
+      "Panamik Hot Springs"
+    ],
+    "top_activities": [
+      "Bactrian Camel Safari",
+      "ATV quad biking",
+      "Luxury Swiss glamping under star-filled skies"
+    ],
+    "gallery": [],
+    "is_popular": true
+  },
+  {
+    "id": "dest-pangong-lake",
+    "name": "Pangong Lake",
+    "slug": "pangong-lake",
+    "region": "ladakh",
+    "tagline": "The High Altitude Color-Changing Enchanted Lake",
+    "description": "Spanning 134 km across India and Tibet at 14,270 ft, Pangong Tso is legendary for its mesmerizing color shifts from turquoise blue to deep indigo. The crystal reflections of jagged brown mountains are unforgettable.",
+    "hero_image": "/images/destinations/pangong-lake.jpg",
+    "best_time_to_visit": "May to September.",
+    "temperature_summary": "Summer: 5°C - 18°C (Cold nights)",
+    "how_to_reach": "160 km from Leh via Chang La pass, or direct via Shyok river route from Nubra.",
+    "top_attractions": [
+      "Pangong Shoreline",
+      "Lukung & Spangmik Viewpoints",
+      "Marmot habitats"
+    ],
+    "top_activities": [
+      "Milky Way astrophotography",
+      "Glamping cottages by the lake",
+      "Sunrise photography"
+    ],
+    "gallery": [
+      "/images/destinations/pangong-lake.jpg",
+      "/images/destinations/pangong-boats.jpg"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-khardung-la",
+    "name": "Khardung La",
+    "slug": "khardung-la",
+    "region": "ladakh",
+    "tagline": "The Legend of 17,982 ft — Conquering the High Pass",
+    "description": "One of the highest motorable mountain passes on Earth, Khardung La provides panoramic vistas of the Karakoram range to the north and the Ladakh range to the south.",
+    "hero_image": "/images/destinations/khardung-la.jpg",
+    "best_time_to_visit": "May to October.",
+    "temperature_summary": "Summer: -2°C - 8°C (Extremely chilly)",
+    "how_to_reach": "39 km uphill drive from Leh town.",
+    "top_attractions": [
+      "Khardung La Top Milestone",
+      "Highest Souvenir Shop & Cafe",
+      "Prayer Flag viewpoints"
+    ],
+    "top_activities": [
+      "Milestone photograph",
+      "High altitude tea stop"
+    ],
+    "gallery": [
+      "/images/destinations/khardung-la.jpg",
+      "/images/destinations/sham-valley.jpg"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-tso-moriri",
+    "name": "Tso Moriri",
+    "slug": "tso-moriri",
+    "region": "ladakh",
+    "tagline": "The Sacred High Wetland & Changpa Nomad Sanctuary",
+    "description": "Perched at 14,836 ft in the remote Changthang region, Tso Moriri is a pristine, tranquil blue high-altitude wetland sanctuary hosting rare bar-headed geese and wild Tibetan asses (Kiang).",
+    "hero_image": "/images/destinations/tso-moriri.jpg",
+    "best_time_to_visit": "June to September.",
+    "temperature_summary": "Summer: 4°C - 16°C",
+    "how_to_reach": "220 km southeast of Leh via Chumathang hot springs.",
+    "top_attractions": [
+      "Korzok Village & Monastery",
+      "Changthang Wildlife Sanctuary",
+      "Nomadic Changpa tents"
+    ],
+    "top_activities": [
+      "Birdwatching",
+      "Nomad culture interaction",
+      "Pristine lakeside walks"
+    ],
+    "gallery": [
+      "/images/destinations/tso-moriri.jpg",
+      "/images/destinations/pangong-lake.jpg"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-sham-valley",
+    "name": "Sham Valley",
+    "slug": "sham-valley",
+    "region": "ladakh",
+    "tagline": "The Apricot Valley & Cultural Heart of Lower Ladakh",
+    "description": "Known as the Apricot Blossom route, Sham Valley encompasses the dramatic confluence of the Indus and Zanskar rivers, the gravity-defying Magnetic Hill, and the 1,000-year-old Alchi Monastery.",
+    "hero_image": "/images/destinations/sham-valley.jpg",
+    "best_time_to_visit": "April for Apricot flowers; May to October for sightseeing.",
+    "temperature_summary": "Summer: 14°C - 28°C",
+    "how_to_reach": "West of Leh along the Leh-Kargil National Highway (30 to 70 km).",
+    "top_attractions": [
+      "Magnetic Hill",
+      "Indus-Zanskar Sangam",
+      "Gurudwara Pathar Sahib",
+      "Alchi & Likir Monasteries",
+      "Basgo Fort"
+    ],
+    "top_activities": [
+      "River rafting at Sangam",
+      "Apricot tasting",
+      "Ancient fresco exploration"
+    ],
+    "gallery": [
+      "/images/destinations/sham-valley.jpg",
+      "/images/destinations/leh.jpg"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-jammu",
+    "name": "Jammu",
+    "slug": "jammu",
+    "region": "jammu",
+    "tagline": "The City of Temples & Gateway to the Shrines",
+    "description": "Situated on the banks of Tawi River, Jammu is renowned for its grand historic temples, the ornate Bahu Fort, and the opulent Mubarak Mandi Palace, serving as the transportation gateway to Kashmir and Katra.",
+    "hero_image": "/images/packages/kashmir-vaishno-devi.jpg",
+    "best_time_to_visit": "September to April for pleasant weather.",
+    "temperature_summary": "Summer: 25°C - 42°C | Winter: 8°C - 22°C",
+    "how_to_reach": "Major railway terminal (Jammu Tawi - JAT) and domestic airport (IXJ).",
+    "top_attractions": [
+      "Raghunath Temple",
+      "Bahu Fort & Bagh-e-Bahu",
+      "Mubarak Mandi Palace",
+      "Peer Kho Cave Temple"
+    ],
+    "top_activities": [
+      "Temple darshan",
+      "Tasting traditional Kalari cheese & Rajma Chawal"
+    ],
+    "gallery": [
+      "/images/packages/kashmir-vaishno-devi.jpg",
+      "/images/spiritual/vaishno-devi.webp"
+    ],
+    "is_popular": false
+  },
+  {
+    "id": "dest-katra",
+    "name": "Katra",
+    "slug": "katra",
+    "region": "jammu",
+    "tagline": "The Sacred Base Camp for Mata Vaishno Devi",
+    "description": "Lying at the foot of the Trikuta Mountains, Katra is a bustling holy town tailored for millions of pilgrims visiting Mata Vaishno Devi. It features excellent hotels, pure vegetarian dining, and helicopter services.",
+    "hero_image": "/images/spiritual/vaishno-devi.webp",
+    "best_time_to_visit": "Year-round pilgrimage; March to October is especially popular.",
+    "temperature_summary": "Summer: 20°C - 35°C | Winter: 5°C - 18°C",
+    "how_to_reach": "48 km from Jammu via highway, or directly by train at Shri Mata Vaishno Devi Katra railway station (SVDK).",
+    "top_attractions": [
+      "Banganga Checkpost",
+      "Yatra Slip Counter",
+      "Katra Market for Walnuts & Dry Fruits"
+    ],
+    "top_activities": [
+      "Yatra preparation",
+      "Helicopter boarding to Sanjichhat",
+      "Shopping"
+    ],
+    "gallery": [
+      "/images/spiritual/vaishno-devi.webp",
+      "/images/packages/kashmir-vaishno-devi.jpg"
+    ],
+    "is_popular": true
+  },
+  {
+    "id": "dest-vaishno-devi",
+    "name": "Vaishno Devi",
+    "slug": "vaishno-devi",
+    "region": "jammu",
+    "tagline": "The Holy Cave Shrine of Mata Rani in Trikuta Hills",
+    "description": "One of India's most venerated Hindu shrines, the Holy Cave of Mata Vaishno Devi sits at 5,200 ft. Millions of devotees chant 'Jai Mata Di' during the 12 km trek from Katra to attain blessings from the holy Pindies.",
+    "hero_image": "/images/spiritual/vaishno-devi.webp",
+    "best_time_to_visit": "Year-round; Navratri festivals in April and October are deeply festive.",
+    "temperature_summary": "Summer: 15°C - 28°C | Winter: 2°C - 12°C",
+    "how_to_reach": "12 km paved uphill track or 8-minute helicopter flight from Katra to Sanjichhat.",
+    "top_attractions": [
+      "Holy Cave Bhawan",
+      "Ardhkuwari Cave",
+      "Bhairon Baba Temple via Cable Car",
+      "Sanjichhat Helipad"
+    ],
+    "top_activities": [
+      "Sacred Darshan of Holy Pindies",
+      "Mata Ki Aarti",
+      "Bhairon Ghati Ropeway Ride"
+    ],
+    "gallery": [
+      "/images/spiritual/vaishno-devi.webp",
+      "/images/packages/kashmir-vaishno-devi.jpg"
+    ],
+    "is_popular": true
+  }
+]
