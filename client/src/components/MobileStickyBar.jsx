@@ -1,5 +1,6 @@
 import React from 'react';
-import { MessageCircle, Phone, Sparkles } from 'lucide-react';
+import { Phone, Sparkles } from 'lucide-react';
+import WhatsAppIcon from './WhatsAppIcon';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 
 export default function MobileStickyBar({ settings, currentPackage }) {
@@ -19,7 +20,7 @@ export default function MobileStickyBar({ settings, currentPackage }) {
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-2 py-3 px-3 rounded-xl bg-emerald-600 active:bg-emerald-700 text-white font-semibold text-sm shadow-lg shadow-emerald-950/60"
         >
-          <MessageCircle className="w-4 h-4 fill-white shrink-0" />
+          <WhatsAppIcon className="w-5 h-5 shrink-0" />
           <span className="truncate">WhatsApp Us</span>
         </a>
 

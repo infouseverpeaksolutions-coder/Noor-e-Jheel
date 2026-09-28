@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { Calendar, Clock, User, ArrowLeft, MessageCircle, Share2, Sparkles } from 'lucide-react';
+import { Calendar, Clock, User, ArrowLeft, Share2, Sparkles } from 'lucide-react';
+import WhatsAppIcon from '../components/WhatsAppIcon';
 import { api } from '../services/api';
 import SEOHead from '../components/SEOHead';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
@@ -115,7 +116,7 @@ export default function BlogDetailPage({ settings }) {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-sm shadow-md"
             >
-              <MessageCircle className="w-4 h-4 fill-white" />
+              <WhatsAppIcon className="w-4 h-4" />
               <span>Plan This Itinerary on WhatsApp</span>
             </a>
             <Link

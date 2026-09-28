@@ -7,7 +7,6 @@ import {
   Check, 
   X, 
   ChevronDown, 
-  MessageCircle, 
   Phone, 
   Calendar, 
   Share2, 
@@ -18,6 +17,7 @@ import {
 } from 'lucide-react';
 import { api } from '../services/api';
 import { buildPackageWhatsAppUrl } from '../utils/whatsapp';
+import WhatsAppIcon from '../components/WhatsAppIcon';
 import SEOHead from '../components/SEOHead';
 
 export default function PackageDetailPage({ settings }) {
@@ -391,7 +391,7 @@ export default function PackageDetailPage({ settings }) {
                   onClick={trackWhatsAppLead}
                   className="w-full flex items-center justify-center gap-2 py-3.5 px-4 rounded-xl bg-[#0e2a1e] hover:bg-[#153e2d] active:bg-[#091a13] text-white font-bold text-sm shadow-md transition-all"
                 >
-                  <MessageCircle className="w-5 h-5 fill-white shrink-0" />
+                  <WhatsAppIcon className="w-5 h-5" />
                   <span>Enquire on WhatsApp</span>
                 </a>
 
@@ -444,7 +444,7 @@ export default function PackageDetailPage({ settings }) {
               onClick={trackWhatsAppLead}
               className="flex-1 flex items-center justify-center gap-1.5 py-3 px-3 rounded-xl bg-emerald-600 active:bg-emerald-700 text-white font-bold text-xs shadow-lg shadow-emerald-950/60"
             >
-              <MessageCircle className="w-4 h-4 fill-white shrink-0" />
+              <WhatsAppIcon className="w-4 h-4" />
               <span>WhatsApp Quote</span>
             </a>
 

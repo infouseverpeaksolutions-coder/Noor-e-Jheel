@@ -6,13 +6,13 @@ import {
   Thermometer, 
   Car, 
   Sparkles, 
-  MessageCircle, 
   Phone, 
   ArrowRight,
   Mountain
 } from 'lucide-react';
 import { api } from '../services/api';
 import PackageCard from '../components/PackageCard';
+import WhatsAppIcon from '../components/WhatsAppIcon';
 import SEOHead from '../components/SEOHead';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 
@@ -210,7 +210,7 @@ export default function DestinationDetailPage({ packages = [], settings }) {
                   rel="noopener noreferrer"
                   className="w-full flex items-center justify-center gap-2 py-3 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-sm shadow-md transition-all"
                 >
-                  <MessageCircle className="w-5 h-5 fill-white" />
+                  <WhatsAppIcon className="w-5 h-5" />
                   <span>Enquire on WhatsApp</span>
                 </a>
 
@@ -257,7 +257,7 @@ export default function DestinationDetailPage({ packages = [], settings }) {
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full bg-emerald-600 text-white font-semibold text-xs shadow-sm hover:bg-emerald-500"
               >
-                <MessageCircle className="w-4 h-4 fill-white" />
+                <WhatsAppIcon className="w-4 h-4" />
                 <span>Request Custom Quote on WhatsApp</span>
               </a>
             </div>

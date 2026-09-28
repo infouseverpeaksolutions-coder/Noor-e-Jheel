@@ -2,7 +2,8 @@ import React, { useState, useMemo } from 'react';
 import { useLocation } from 'react-router-dom';
 import PackageCard from '../components/PackageCard';
 import SEOHead from '../components/SEOHead';
-import { Filter, ArrowUpDown, Sparkles, MessageCircle, MapPin } from 'lucide-react';
+import WhatsAppIcon from '../components/WhatsAppIcon';
+import { Filter, ArrowUpDown, Sparkles, MapPin } from 'lucide-react';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 
 const CATEGORY_CONFIG = {
@@ -205,7 +206,7 @@ export default function PackagesListPage({ packages = [], settings }) {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl bg-[#0e2a1e] hover:bg-[#153e2d] text-white font-medium text-xs transition-colors shadow-sm"
             >
-              <MessageCircle className="w-3.5 h-3.5 fill-white" />
+              <WhatsAppIcon className="w-3.5 h-3.5" />
               <span>Ask on WhatsApp</span>
             </a>
           </div>
@@ -229,7 +230,7 @@ export default function PackagesListPage({ packages = [], settings }) {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full bg-[#0e2a1e] text-white font-medium text-xs"
             >
-              <MessageCircle className="w-4 h-4 fill-white" />
+              <WhatsAppIcon className="w-4 h-4" />
               <span>Tell Us What You Need on WhatsApp</span>
             </a>
           </div>

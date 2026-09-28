@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { MessageCircle, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
+import WhatsAppIcon from './WhatsAppIcon';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 
 export default function Header({ settings }) {
@@ -63,7 +64,7 @@ export default function Header({ settings }) {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#c89f56]/70 hover:border-[#c89f56] bg-black/40 hover:bg-[#c89f56]/10 text-white text-xs font-medium transition-all shadow-sm"
             >
-              <MessageCircle className="w-4 h-4 text-[#c89f56]" />
+              <WhatsAppIcon className="w-4 h-4" />
               <span>Enquire on WhatsApp</span>
             </a>
           </div>
@@ -73,10 +74,10 @@ export default function Header({ settings }) {
               href={whatsappUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="p-2 rounded-full border border-[#c89f56]/50 text-white"
+              className="p-2 rounded-full border border-[#c89f56]/50 text-white flex items-center justify-center"
               aria-label="WhatsApp"
             >
-              <MessageCircle className="w-5 h-5 text-[#c89f56]" />
+              <WhatsAppIcon className="w-5 h-5" />
             </a>
 
             <button
@@ -110,7 +111,7 @@ export default function Header({ settings }) {
               rel="noopener noreferrer"
               className="w-full flex items-center justify-center gap-2 py-3 rounded-full border border-[#c89f56] bg-[#0e2a1e] text-white text-xs font-semibold"
             >
-              <MessageCircle className="w-4 h-4 text-[#c89f56]" />
+              <WhatsAppIcon className="w-4 h-4" />
               <span>Enquire on WhatsApp</span>
             </a>
           </div>

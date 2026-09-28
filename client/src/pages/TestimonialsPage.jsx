@@ -1,7 +1,8 @@
 import React from 'react';
 import TestimonialCard from '../components/TestimonialCard';
 import SEOHead from '../components/SEOHead';
-import { Star, MessageCircle, ShieldCheck } from 'lucide-react';
+import WhatsAppIcon from '../components/WhatsAppIcon';
+import { Star, ShieldCheck } from 'lucide-react';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 
 export default function TestimonialsPage({ testimonials = [], settings }) {
@@ -50,7 +51,7 @@ export default function TestimonialsPage({ testimonials = [], settings }) {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-md transition-all"
           >
-            <MessageCircle className="w-4 h-4 fill-white" />
+            <WhatsAppIcon className="w-4 h-4" />
             <span>Chat with Srinagar Team</span>
           </a>
         </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Calendar, MapPin, MessageCircle } from 'lucide-react';
+import { Calendar, MapPin } from 'lucide-react';
+import WhatsAppIcon from './WhatsAppIcon';
 import { buildPackageWhatsAppUrl } from '../utils/whatsapp';
 import { api } from '../services/api';
 
@@ -82,7 +83,7 @@ export default function PackageCard({ pkg, settings, badgeText = null, badgeColo
               onClick={logWhatsAppInquiry}
               className="flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-xl bg-[#0e2a1e] hover:bg-[#153e2d] text-white font-medium text-xs transition-colors shadow-sm"
             >
-              <MessageCircle className="w-3.5 h-3.5 fill-white" />
+              <WhatsAppIcon className="w-3.5 h-3.5" />
               <span>Enquire on WhatsApp</span>
             </a>
 

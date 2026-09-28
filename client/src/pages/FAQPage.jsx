@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { ChevronDown, MessageCircle, HelpCircle } from 'lucide-react';
+import { ChevronDown, HelpCircle } from 'lucide-react';
+import WhatsAppIcon from '../components/WhatsAppIcon';
 import SEOHead from '../components/SEOHead';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 
@@ -124,7 +125,7 @@ export default function FAQPage({ settings }) {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-emerald-600 text-white font-bold text-xs shadow-md hover:bg-emerald-500"
           >
-            <MessageCircle className="w-4 h-4 fill-white" />
+            <WhatsAppIcon className="w-4 h-4" />
             <span>Ask Us on WhatsApp</span>
           </a>
         </div>

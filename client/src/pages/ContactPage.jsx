@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { MapPin, Phone, Mail, Clock, MessageCircle, Send, CheckCircle2, ShieldCheck, Navigation } from 'lucide-react';
+import { MapPin, Phone, Mail, Clock, Send, CheckCircle2, ShieldCheck, Navigation } from 'lucide-react';
+import WhatsAppIcon from '../components/WhatsAppIcon';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 import { api } from '../services/api';
 import SEOHead from '../components/SEOHead';
@@ -152,7 +153,7 @@ export default function ContactPage({ settings }) {
                 rel="noopener noreferrer"
                 className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-md transition-all"
               >
-                <MessageCircle className="w-4 h-4 fill-white" />
+                <WhatsAppIcon className="w-4 h-4" />
                 <span>Quick WhatsApp Chat</span>
               </a>
             </div>
@@ -256,7 +257,7 @@ export default function ContactPage({ settings }) {
                     type="submit"
                     className="inline-flex items-center gap-2 px-8 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs shadow-md transition-all"
                   >
-                    <MessageCircle className="w-4 h-4 fill-white" />
+                    <WhatsAppIcon className="w-4 h-4" />
                     <span>Send Message on WhatsApp</span>
                   </button>
                 </div>

@@ -7,7 +7,6 @@ import {
   Hotel, 
   Car, 
   DollarSign, 
-  MessageCircle, 
   ArrowRight, 
   ArrowLeft, 
   CheckCircle2,
@@ -16,6 +15,7 @@ import {
 } from 'lucide-react';
 import { buildCustomTripWhatsAppUrl } from '../utils/whatsapp';
 import { api } from '../services/api';
+import WhatsAppIcon from '../components/WhatsAppIcon';
 import SEOHead from '../components/SEOHead';
 
 const ALL_DESTINATIONS = [
@@ -172,7 +172,7 @@ export default function CustomizeTripPage({ settings }) {
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-2.5 rounded-full bg-emerald-600 text-white font-semibold text-xs shadow-lg hover:bg-emerald-500"
               >
-                <MessageCircle className="w-4 h-4 fill-white" />
+                <WhatsAppIcon className="w-4 h-4" />
                 <span>Re-open WhatsApp Chat</span>
               </a>
             </div>
@@ -529,7 +529,7 @@ export default function CustomizeTripPage({ settings }) {
                       type="submit"
                       className="inline-flex items-center gap-2.5 px-8 py-3.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-sm shadow-md transition-all transform hover:scale-105"
                     >
-                      <MessageCircle className="w-5 h-5 fill-white" />
+                      <WhatsAppIcon className="w-5 h-5" />
                       <span>Send Request on WhatsApp</span>
                     </button>
                   </div>

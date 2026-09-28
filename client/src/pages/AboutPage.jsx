@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ShieldCheck, Award, Users, Heart, MapPin, Sparkles, MessageCircle } from 'lucide-react';
+import { ShieldCheck, Award, Users, Heart, MapPin, Sparkles } from 'lucide-react';
+import WhatsAppIcon from '../components/WhatsAppIcon';
 import SEOHead from '../components/SEOHead';
 import { buildGeneralWhatsAppUrl } from '../utils/whatsapp';
 
@@ -106,7 +107,7 @@ export default function AboutPage({ settings }) {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-sm shadow-md"
             >
-              <MessageCircle className="w-4 h-4 fill-white" />
+              <WhatsAppIcon className="w-4 h-4" />
               <span>Connect on WhatsApp</span>
             </a>
           </div>
