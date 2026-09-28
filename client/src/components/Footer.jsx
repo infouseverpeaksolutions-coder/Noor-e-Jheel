@@ -149,7 +149,15 @@ export default function Footer({ settings }) {
 
         <div className="mt-3 flex justify-center sm:justify-end text-[11px] text-slate-500">
           <p>
-            Designed & Developed by <span className="text-[#c89f56] font-medium">EverPeak Solutions</span>
+            Designed & Developed by{' '}
+            <a
+              href="https://www.everpeaksolutions.in/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[#c89f56] hover:text-[#dfb76c] hover:underline font-medium transition-colors"
+            >
+              EverPeak Solutions
+            </a>
           </p>
         </div>
       </div>
