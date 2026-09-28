@@ -321,8 +321,52 @@ export default function HomePage({ settings }) {
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
-            <div className="lg:col-span-8 bg-white rounded-3xl p-6 sm:p-10 border border-slate-200 shadow-sm space-y-6 flex flex-col justify-between">
-              <div className="space-y-4">
+            {/* Left: Founder Spotlight Card */}
+            <div className="lg:col-span-5 bg-white rounded-3xl overflow-hidden border border-slate-200 shadow-sm flex flex-col justify-between group">
+              <div className="relative h-[380px] sm:h-[420px] lg:h-[460px] w-full overflow-hidden bg-slate-100">
+                <img
+                  src="/images/team/abid-tariq.jpg"
+                  alt="Abid Tariq - Founder of Noor-e-Jheel Travel Kashmir"
+                  className="w-full h-full object-cover object-[center_20%] group-hover:scale-105 transition-transform duration-700"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-slate-950/85 via-slate-950/20 to-transparent" />
+
+                {/* Top Live Badge */}
+                <div className="absolute top-4 left-4 inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-black/60 backdrop-blur-md border border-white/20 text-white text-xs font-semibold shadow-lg">
+                  <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                  <span>On-Ground in Srinagar</span>
+                </div>
+
+                {/* Bottom Overlay Info */}
+                <div className="absolute bottom-5 left-5 right-5 text-white space-y-1">
+                  <span className="text-[#c89f56] text-xs font-bold tracking-widest uppercase">Founder & Operations Lead</span>
+                  <h3 className="text-2xl sm:text-3xl font-serif font-bold text-white tracking-wide">
+                    Abid Tariq
+                  </h3>
+                  <p className="text-xs text-slate-200 line-clamp-2">
+                    Personally overseeing private tours, vehicle logistics & mountain safety across Kashmir.
+                  </p>
+                </div>
+              </div>
+
+              {/* Card Footer Details */}
+              <div className="p-5 sm:p-6 bg-slate-900 text-white space-y-2 border-t border-white/10">
+                <div className="flex items-center justify-between text-xs text-slate-300">
+                  <div className="flex items-center gap-2">
+                    <ShieldCheck className="w-4 h-4 text-[#c89f56] shrink-0" />
+                    <span>JK Tourism Reg: <strong className="text-white font-mono">JKEA00005105</strong></span>
+                  </div>
+                </div>
+                <div className="flex items-center gap-2 text-xs text-slate-400">
+                  <MapPin className="w-4 h-4 text-[#c89f56] shrink-0" />
+                  <span>Parimpora, Qamarwari, Srinagar — 190017</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Right: Narrative & Contact Helpline */}
+            <div className="lg:col-span-7 bg-white rounded-3xl p-6 sm:p-10 border border-slate-200 shadow-sm flex flex-col justify-between space-y-6">
+              <div className="space-y-5">
                 <div className="flex items-center gap-2 text-[#c89f56] text-xs font-bold tracking-widest uppercase">
                   <span className="w-5 h-[2px] bg-[#c89f56]" />
                   <span>WHO WE ARE</span>
@@ -339,8 +383,34 @@ export default function HomePage({ settings }) {
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed font-normal">
                   Travelers searching for a local agency often want one thing: someone who is here when the weather shifts. Our drivers know NH timings. Our hosts confirm Gondola slots and Shikara hours. If a pass closes, we rewrite the day — we do not read it off a brochure in another city.
                 </p>
+
+                {/* Why Local Matters Highlights */}
+                <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-2">
+                  <div className="bg-slate-50 border border-slate-100 p-3.5 rounded-2xl space-y-1">
+                    <div className="flex items-center gap-1.5 text-xs font-bold text-slate-900">
+                      <ShieldCheck className="w-4 h-4 text-[#c89f56]" />
+                      <span>Govt Registered</span>
+                    </div>
+                    <p className="text-[11px] text-slate-500">Official JK Tourism agent with valid license</p>
+                  </div>
+                  <div className="bg-slate-50 border border-slate-100 p-3.5 rounded-2xl space-y-1">
+                    <div className="flex items-center gap-1.5 text-xs font-bold text-slate-900">
+                      <MapPin className="w-4 h-4 text-[#c89f56]" />
+                      <span>Valley Based</span>
+                    </div>
+                    <p className="text-[11px] text-slate-500">Local ground drivers, vetted stays & Shikaras</p>
+                  </div>
+                  <div className="bg-slate-50 border border-slate-100 p-3.5 rounded-2xl space-y-1">
+                    <div className="flex items-center gap-1.5 text-xs font-bold text-slate-900">
+                      <Sparkles className="w-4 h-4 text-[#c89f56]" />
+                      <span>Live Flexibility</span>
+                    </div>
+                    <p className="text-[11px] text-slate-500">Direct pass rewrites & Gondola slot tracking</p>
+                  </div>
+                </div>
               </div>
 
+              {/* Direct Helpline & WhatsApp Enquire */}
               <div className="pt-6 border-t border-slate-100 flex flex-col sm:flex-row flex-wrap items-start sm:items-center justify-between gap-4">
                 <div className="space-y-1.5 text-xs text-slate-600">
                   <div className="font-semibold text-slate-900 flex flex-wrap items-center gap-2">
@@ -368,53 +438,6 @@ export default function HomePage({ settings }) {
                   <WhatsAppIcon className="w-4 h-4" />
                   <span>Enquire on WhatsApp</span>
                 </a>
-              </div>
-            </div>
-
-            <div className="lg:col-span-4 bg-[#0a0d10] text-white rounded-3xl p-6 sm:p-8 flex flex-col justify-between space-y-6 shadow-xl border border-white/10">
-              <div className="space-y-5">
-                <div className="flex items-center gap-2 text-[#c89f56] text-xs font-bold tracking-widest uppercase">
-                  <Sparkles className="w-4 h-4 text-[#c89f56]" />
-                  <span>WHY LOCAL MATTERS</span>
-                </div>
-
-                <div className="space-y-4">
-                  <div className="flex items-start gap-3 bg-white/5 p-3.5 rounded-2xl border border-white/5">
-                    <div className="w-8 h-8 rounded-xl bg-[#c89f56]/20 flex items-center justify-center shrink-0">
-                      <ShieldCheck className="w-4 h-4 text-[#c89f56]" />
-                    </div>
-                    <div>
-                      <h4 className="text-xs font-bold text-white">JK Tourism Registered</h4>
-                      <p className="text-[11px] text-slate-300 mt-0.5">Govt Reg. No. JKEA00005105</p>
-                    </div>
-                  </div>
-
-                  <div className="flex items-start gap-3 bg-white/5 p-3.5 rounded-2xl border border-white/5">
-                    <div className="w-8 h-8 rounded-xl bg-[#c89f56]/20 flex items-center justify-center shrink-0">
-                      <MapPin className="w-4 h-4 text-[#c89f56]" />
-                    </div>
-                    <div>
-                      <h4 className="text-xs font-bold text-white">Srinagar Ground Operations</h4>
-                      <p className="text-[11px] text-slate-300 mt-0.5">Managed right from the valley, not distant call centres.</p>
-                    </div>
-                  </div>
-
-                  <div className="flex items-start gap-3 bg-white/5 p-3.5 rounded-2xl border border-white/5">
-                    <div className="w-8 h-8 rounded-xl bg-[#c89f56]/20 flex items-center justify-center shrink-0">
-                      <Calendar className="w-4 h-4 text-[#c89f56]" />
-                    </div>
-                    <div>
-                      <h4 className="text-xs font-bold text-white">Live On-Road Decisions</h4>
-                      <p className="text-[11px] text-slate-300 mt-0.5">NH-44 timings, snow-chains, Gondola slots & instant rerouting.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="pt-2 text-center border-t border-white/10">
-                <span className="text-[11px] text-slate-400">
-                  Direct founder access: <strong className="text-[#c89f56]">Abid Tariq & Srinagar Concierge</strong>
-                </span>
               </div>
             </div>
           </div>
